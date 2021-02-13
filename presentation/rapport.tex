@@ -1,0 +1,364 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=2.5cm]{geometry}
+\linespread{1.25}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[swedish]{babel}
+% \usepackage{fontspec}
+% \setmainfont{Linux Libertine O}
+\usepackage{lmodern}
+\usepackage{listings}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{ 1.0pt }
+\renewcommand{\footrulewidth}{ 0.4pt }
+\fancyhead{} % clear all headers
+\fancyfoot{} % clear all footers
+
+% E:even page, O:odd page, L:left, C:center, R:right
+%\fancyhead[LE,RO]{\thepage}
+%\fancyfoot[C]  {Albert Einstein, 2009}
+
+\fancyhead[L]{Meningsåterställare}
+\fancyhead[R]{Mikael Forsberg, Robin Gunning}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+\renewcommand*{\ttdefault}{pcr}
+\lstset{
+    escapeinside={(*@}{@*)},
+    basicstyle=\footnotesize\ttfamily,
+    breaklines=true,
+    xleftmargin=0.6cm,
+    showstringspaces=false,
+    frame=none,
+    % numbers=left,
+    language=Java,
+    inputencoding=utf8,
+    extendedchars=true,
+    literate={≤}{{$\leq$}}1
+}
+
+\lstset{numberstyle=\footnotesize\ttfamily,breaklines=true}
+
+\lstdefinelanguage{algolur}
+{
+morekeywords={Algorithm,Input,Output,Procedure,and,break,for,while,to,downto,swap,if,or,then,else,do,return,True,False},
+sensitive=true,
+}
+
+\title{\vspace{-1cm} Meningsåterställare via ord-n-gramstatistik för svenska\\ \small Språkteknologi DD2418 HT2016}
+\author{Mikael Forsberg <miforsb@kth.se>\\Robin Gunning <rgunning@kth.se>}
+\maketitle
+
+\begin{center}
+Abstrakt\\ 
+Vi finner att en enkel algoritm presterar bättre än slumpen för att återställa
+ordningen på ord i en mening där ordningen gått förlorad.
+\end{center}
+
+\section*{Introduktion}
+I de flesta meningar i svenska språket är ordningen mellan orden mycket
+viktiga för meningens innebörd. En mening där ordningen mellan orden
+på något sätt gått förlorad kan ofta se ut som rent nonsens. För en
+människa är det dock relativt enkelt att lista ut (inte nödvändigtvis
+entydigt) vad som egentligen menas. Desto svårare är att konstruera
+ett algoritm som löser uppgiften automatiskt. Denna rapport beskriver ett försök
+att konstruera och utvärdera en sådan algoritm. Tänkbara tillämpningar
+för algoritmen är exempelvis grammatikkontroll.
+
+\subsection*{Problemformulering}
+Givet en mening (en följd svenska ord) där ordningen mellan orden påstås eller
+antags vara felaktig, återställ ordningen så gott som möjligt.
+
+\subsection*{Avgränsning}
+Per uppgiftslydelse avgränsar vi till att endast använda ord-n-gramstatistik
+för svenska för att avgöra vilken ordning som ska anses vara den bästa.
+
+\subsection*{Huvudsaklig angreppsmetod}
+Per inrådan från lärare har vi angripit problemet genom att göra en
+totalsökning över meningens permutationer och beräkna vilken av dessa
+permutationer som har störst sannolikhet att vara korrekt.
+
+\section*{Metod}
+\subsection*{Statistikinsamling}
+Korpusar hämtades från Språkbanken\textsuperscript{1} vid Göteborgs
+Universitet. Vi valde att filtrera bort meningar som innehöll annat än
+vanligt språk såsom webbadresser, samt att ersätta ensamma tal (ord
+bestående av endast siffror, punkt och komma) med strängen
+\texttt{''NUMBER''}. Andra numeriska fragment såsom datum togs med
+utan att ersättas med någonting annat.
+
+\vspace{0.25cm}
+\noindent
+Följande korpusar användes (i olika kombinationer) för statistikinsamling:
+
+\vspace{0.25cm}
+% gp2010 (1137633 sentences) (13896 skipped) (425160 words) (3558686 bigrams) (7539724 trigrams)
+% gp2011 (1309053 sentences) (16426 skipped) (424646 words) (3536672 bigrams) (7495740 trigrams)
+% bloggmix2011 () (411626 words) (3928737 bigrams) (9893028 trigrams)
+% wikipedia (9861817 sentences) (238015 skipped) (2590695 words) (20901417 bigrams) (45930124 trigrams)
+
+\begin{center}
+\begin{tabular}{l r r r}
+\textbf{Korpus}            & \textbf{Unika bigram}   & \textbf{Unika trigram}   &  \textbf{Unika ord} \\
+GP2010\textsuperscript{2}                     & 3 558 686                 & 7 539 724                  & 425 160\\
+GP2011\textsuperscript{3}                     & 3 536 672                 & 7 495 740                  & 424 646\\
+**Bloggmix 2011\textsuperscript{4}              & 3 928 737                 & 9 893 028                  & 411 626\\
+Svenska Wikipedia-korpusen\textsuperscript{5} & 20 901 417                & 45 930 124 
+\end{tabular}
+\end{center}
+
+\hfill {\footnotesize* Vi lyckades endast parsa en mindre del av Bloggmix2011 (libxml2 användes)}
+
+\subsection*{Algoritm}
+Översiktligt fungerar algoritmen enligt följande:
+
+\begin{enumerate}
+\item Läs in en sträng (meningen) och dela upp den i enstaka ord. Ersätt ensamma tal med strängen ''NUMBER''.
+\item För varje permutation av listan på meningens ord, konstruera
+alla (ord-) bi- och trigram av permutationen och räkna hur
+många av dessa som inte finns i statistiken. Placera de
+permutationer som har lägst antal n-gram som inte täcks
+av statistiken i en lista av kandidatpermutationer.
+\item För varje permutation i listan över kandidatpermutationer,
+summera de statistiska frekvenserna av dess bi- och trigram
+med hänsyn till statistiken över vilka bi- och trigram
+som stått som meningsbörjan eller -slut. Vikter kan införas och justeras
+genom utvärdering.
+Välj den permutation som ger högst summa som slutgiltigt svar. Om
+flera permutationer får samma summa, välj den sista av dessa.
+\end{enumerate}
+
+Pseudokod:
+
+\begin{lstlisting}[language=algolur]
+Input: (string) scrambledSentence
+          (map) bigramFreqStart
+          (map) bigramFreqMid
+          (map) bigramFreqEnd
+          (map) trigramFreqStart
+          (map) trigramFreqMid
+          (map) trigramFreqEnd
+
+Output: prints corrected sentence
+
+Procedure:
+    scrambledSentence (*@$\leftarrow$@*) replace(/ [\d.,]+ /, " NUMBER ", scrambledSentence)
+    words (*@$\leftarrow$@*) split(scrambledSentence, " ") // split by SPACEs
+    candidates (*@$\leftarrow$@*) list()
+    leastZeroes (*@$\leftarrow$@*) length(words) (*@$\cdot$@*) 1000;
+    
+    for x (*@$\in$@*) permutations(words):
+        zeroes (*@$\leftarrow$@*) 0
+        
+        for y (*@$\in$@*) bigrams(words), s (*@$\in$@*) (bigramFreqStart or bigramFreqMid or bigramFreqEnd):
+            if y (*@$\not \in$@*) s: zeroes (*@$\leftarrow$@*) zeroes + 1
+        for y (*@$\in$@*) trigrams(words), s (*@$\in$@*) (trigramFreqStart or trigramFreqMid or trigramFreqEnd):
+            if y (*@$\not \in$@*) s: zeroes (*@$\leftarrow$@*) zeroes + 1
+        
+        if zeroes < leastZeroes:
+            leastZeroes (*@$\leftarrow$@*) zeroes
+            candidates.clear()
+            candidates.add(x)
+        else if zeroes = leastZeroes:
+            candidates.add(x)
+    
+    answer (*@$\leftarrow$@*) ""
+    bestScore (*@$\leftarrow$@*) 0
+    
+    for x (*@$\in$@*) candidates(words):
+        score (*@$\leftarrow$@*) 0
+        
+        score (*@$\leftarrow$@*) score + bigramFreqStart[first(bigrams(word))] (*@$\cdot$@*) 2
+        score (*@$\leftarrow$@*) score + bigramFreqEnd[last(bigrams(word))] (*@$\cdot$@*) 2
+        
+        score (*@$\leftarrow$@*) score + trigramFreqStart[first(trigrams(word))] (*@$\cdot$@*) 2
+        score (*@$\leftarrow$@*) score + trigramFreqEnd[last(trigrams(word))] (*@$\cdot$@*) 2
+        
+        for y (*@$\in$@*) middle(bigrams(words)):
+            score (*@$\leftarrow$@*) score + bigramFreqMid[y]
+        for y (*@$\in$@*) middle(trigrams(words)):
+            score (*@$\leftarrow$@*) score + trigramFreqMid[y] (*@$\cdot$@*) 3
+        
+        if score (*@$\geq$@*) bestScore:
+            bestScore (*@$\leftarrow$@*) score
+            answer (*@$\leftarrow$@*) join(x, " ")
+    
+    print(answer)
+\end{lstlisting}
+
+\subsection*{Utvärdering}
+För att utvärdera algoritmen definierades ett korrekthetsmått mellan
+en given korrekt mening och den av algoritmen föreslagna meningen.
+Måttet ges av andelen meningsdelar (ord-n-gram)
+av storlek två eller fler ord i den föreslagna meningen som återfinns
+i den korrekta meningen. Beräkningen illustreras enklast med ett exempel
+där de meningsdelar som återfinns i den korrekta meningen markerats
+med fetstil:
+
+\begin{quote}
+Korrekt = ''vi håller \textbf{en presentation}''
+
+Föreslagen = ''vi \textbf{en presentation} håller''
+
+Meningsdelar i förslaget: ''vi en'', ''\textbf{en presentation}'', ''presentation håller''
+
+\hspace{4.2cm} ''vi en presentation'', ''en presentation håller''
+
+\hspace{4.2cm} ''vi en presentation håller''
+
+Korrekthet: $\displaystyle \frac{1}{6}$
+\end{quote}
+
+\vspace{0.25cm}
+\noindent
+En uppsättning testmeningar
+skapades utifrån Språkbankens korpus LäSBarT\textsuperscript{6}. Testmeningarna
+grupperades efter antal ord.
+
+\begin{center}
+\begin{tabular}{l l}
+\textbf{Antal ord} & \textbf{Antal testmeningar}\\
+3 & 1561\\
+4 & 1627\\
+5 & 1549\\
+6 & 1279\\
+7 & 1028\\
+8 & 720\\
+\end{tabular}
+\end{center}
+
+\noindent
+Algoritmens prestanda jämfördes med att slumpa ordningen på orden med \texttt{random.shuffle}
+i Python 3.5.2 (Linux 4.7, 64-bit), vilket fick fungera som en slags nollhypotes.
+
+\vspace{0.25cm}
+\noindent
+
+\section*{Resultat}
+\subsection*{Bästafall: statistik från LäSBarT}
+Detta resultat ger inte ett mått på hur väl algoritmen fungerar i allmänhet, utan
+ger ett slags tak för hur bra algoritmen kan prestera i bästa tänkbara fall.
+
+\vspace{0.25cm}
+\noindent
+Tabellen visar aritmetiska medelvärden för korrekthetsmåttet över samtliga testmeningar.
+
+\begin{center}
+\begin{tabular}{l l l}
+\textbf{Antal ord i mening} & \textbf{Meningsåterställare} & \textbf{\texttt{random.shuffle}}\\
+3 & 0.985 & 0.270\\
+4 & 0.986 & 0.172\\
+5 & 0.979 & 0.103\\
+6 & 0.989 & 0.067\\
+7 & 0.980 & 0.051\\
+8 & 0.987 & 0.042\\
+\end{tabular}
+\end{center}
+
+\subsection*{Statistik från GP2010}
+
+Tabellen visar aritmetiska medelvärden för korrekthetsmåttet över samtliga testmeningar.
+\begin{center}
+\begin{tabular}{l l l}
+\textbf{Antal ord i mening} & \textbf{Meningsåterställare} & \textbf{\texttt{random.shuffle}}\\
+3 & 0.545 & 0.294\\
+4 & 0.507 & 0.173\\
+5 & 0.437 & 0.105\\
+6 & 0.372 & 0.072\\
+7 & 0.303 & 0.056\\
+8 & 0.255 & 0.039\\
+\end{tabular}
+\end{center}
+
+\subsection*{Statistik från Svenska Wikipedia-korpusen}
+
+Tabellen visar aritmetiska medelvärden för korrekthetsmåttet över samtliga testmeningar.
+\begin{center}
+\begin{tabular}{l l l}
+\textbf{Antal ord i mening} & \textbf{Meningsåterställare} & \textbf{\texttt{random.shuffle}}\\
+3 & 0.464 & 0.296\\
+4 & 0.444 & 0.167\\
+5 & 0.395 & 0.100\\
+6 & 0.323 & 0.070\\
+7 & 0.273 & 0.051\\
+8 & 0.237 & 0.039\\
+\end{tabular}
+\end{center}
+
+\subsection*{Statistik från sammanslagning av korpusar}
+
+För detta test slog vi ihop korpusarna Bloggmix2011, GP2010, GP2011, och Svenska
+Wikipedia-korpusen.
+
+\vspace{0.25cm}
+\noindent
+Tabellen visar aritmetiska medelvärden för korrekthetsmåttet över samtliga testmeningar.
+\begin{center}
+\begin{tabular}{l l l}
+\textbf{Antal ord i mening} & \textbf{Meningsåterställare} & \textbf{\texttt{random.shuffle}}\\
+3 & 0.629 & 0.290\\
+4 & 0.540 & 0.157\\
+5 & 0.457 & 0.104\\
+6 & 0.374 & 0.074\\
+7 & 0.308 & 0.050\\
+8 & 0.266 & 0.042\\
+\end{tabular}
+\end{center}
+
+\section*{Diskussion}
+\subsection*{Algoritmens prestanda}
+Algoritmen presterar enligt testerna bättre än att använda \texttt{random.shuffle} för att slumpa fram
+ordningen mellan orden. Sett till det egna korrekthetsmåttet presterar algoritmen bättre på
+kortare meningar, men sett relativt mot \texttt{random.shuffle} presterar algoritmen betydligt
+bättre ju längre meningarna blir. En större korpus för statistik ger som väntat bättre resultat, men
+en större korpus av en språktyp som inte matchar språktypen i indata ger sämre resultat, vilket
+ses i testet med statistik baserad på Svenska Wikipedia-korpusen.
+
+\subsection*{Korrekthetsmåttet}
+Korrekthetsmåttet är strängt i sin bedömning, särskilt i sådana fall där
+algoritmen föreslår en helt ekvivalent mening.
+
+\begin{quote}
+\texttt{Korrekt: ''det har \textbf{ingen annan} klarat''}
+
+\texttt{Förslag: ''\textbf{ingen annan} har klarat det''}
+
+\texttt{Score: 0.10}
+\end{quote}
+
+\vspace{0.25cm}
+\noindent
+Att detektera denna typ av ekvivalens skulle dock antagligen kräva en semantisk parser
+
+\subsection*{Förbättringsförslag}
+Det som först och främst bör förbättras är utvärderingen. Denna kan enkelt göras betydligt
+mer omfattande, exempelvis genom att inkludera många fler uppsättningar testmeningar,
+gärna från olika förberäknade kategorier såsom nyhetstexter, skönlitterära texter och
+dialogtexter. Med en större testmängd kan man sedan försöka förbättra algoritmen
+genom att exempelvis justera vikterna och utvärdera. Det verkar även troligt att 
+algoritmen skulle prestera bättre givet ännu större statistikbaser samt med statistik
+som omfattar n-gram av ordning större än 3. Att utöka statistiken (särskilt genom att
+inkludera större n-gram) innebär dock betydligt ökade krav på diskutrymme, vilket
+skulle göra ett program som använder algoritmen mindre praktiskt.
+
+\section*{Slutsats}
+En enkel totalsökningsalgoritm som använder ord-n-gramstatistik över svenska för
+att givet en mening där ordningen mellan ord gått förlorad rangordna vilken permutation
+av ordmängden som är mest sannolik att vara ''korrekt'' ger bättre resultat än att slumpa
+fram en permutation.
+
+\section*{Referenser}
+
+\begin{tabular}{r l}
+1 & \small \texttt{https://spraakbanken.gu.se/}\\
+2 & \small \texttt{https://spraakbanken.gu.se/resource/gp2010}\\
+3 & \small \texttt{https://spraakbanken.gu.se/resource/gp2011}\\
+4 & \small \texttt{https://spraakbanken.gu.se/resource/bloggmix2011}\\
+5 & \small \texttt{https://spraakbanken.gu.se/eng/resource/wikipedia-sv}\\
+6 & \small \texttt{https://spraakbanken.gu.se/resource/lasbart}\\
+\end{tabular}
+\end{document}

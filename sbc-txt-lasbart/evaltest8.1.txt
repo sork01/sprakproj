@@ -1,0 +1,1440 @@
+ours: NUMBER drack ryssarna fem liter sprit per person | random: per sprit liter NUMBER fem drack ryssarna person
+1.00 | 0.04
+ours: NUMBER personer av NUMBER sjukskrivna har dessa problem | random: personer problem NUMBER av har dessa sjukskrivna NUMBER
+1.00 | 0.04
+ours: NUMBER procent svarar de vill ha kvar biltullarna | random: vill svarar procent NUMBER ha kvar biltullarna de
+1.00 | 0.11
+ours: NUMBER stockholm har gjort ett otroligt bra slutspel | random: NUMBER stockholm slutspel bra ett gjort har otroligt
+1.00 | 0.04
+ours: aldrig i hela livet ska jag flytta igen | random: ska hela igen flytta livet jag i aldrig
+1.00 | 0.00
+ours: alla assyrier i sverige visste vem han var | random: vem sverige visste alla han var i assyrier
+1.00 | 0.07
+ours: alla grundlagarna handlar om hur staten ska fungera | random: hur ska alla fungera grundlagarna staten handlar om
+1.00 | 0.04
+ours: alla hade de virat stora handdukar om sig | random: om de stora handdukar virat hade alla sig
+1.00 | 0.04
+ours: alla kan inte vara lika snabba sa mamma | random: inte snabba alla vara mamma sa kan lika
+1.00 | 0.00
+ours: allt mitt skumpande har givit resultat till slut | random: har mitt till slut givit skumpande allt resultat
+1.00 | 0.04
+ours: alva stretar genom regnet och vinden till skolan | random: alva stretar genom regnet till och vinden skolan
+1.00 | 0.25
+ours: angick det honom hur dom hade det hemma | random: dom honom hur hemma angick det hade det
+1.00 | 0.11
+ours: anja och jag har hur kul som helst | random: jag hur kul och anja har helst som
+1.00 | 0.04
+ours: anna carin olofsson och anja persson blev drottningar | random: anna carin persson olofsson blev och anja drottningar
+1.00 | 0.07
+ours: anna carin tog segern i sprintloppet i pokljuka | random: i tog segern carin i sprintloppet pokljuka anna
+1.00 | 0.07
+ours: anna carin vann guld och silver i skidskytte | random: och anna silver vann carin skidskytte i guld
+1.00 | 0.00
+ours: anna dahlberg var snabbast av de svenska damerna | random: svenska av anna dahlberg damerna var de snabbast
+1.00 | 0.04
+ours: anton fick loss sin arm ur hans grepp | random: ur anton loss arm grepp hans sin fick
+1.00 | 0.00
+ours: anton lille nu kommer vi och taaar dej | random: kommer taaar vi anton dej lille nu och
+1.00 | 0.04
+ours: arbetsgivarna ska fortfarande betala en del av sjukpenningen | random: arbetsgivarna del ska betala en av sjukpenningen fortfarande
+1.00 | 0.07
+ours: arbetsliv kommer att kosta NUMBER miljoner kronor mer | random: NUMBER mer kosta arbetsliv miljoner kommer att kronor
+1.00 | 0.04
+ours: assistenterna ser till att stefan kommer till skolan | random: till assistenterna till skolan att stefan kommer ser
+1.00 | 0.14
+ours: att det var skatten han hade med sig | random: hade att skatten sig det var han med
+1.00 | 0.04
+ours: att dra ut en tand kostar NUMBER kr | random: kr dra att kostar NUMBER ut tand en
+1.00 | 0.04
+ours: att hon vill att det ska vara slut | random: vara ska vill det att hon slut att
+1.00 | 0.04
+ours: att hoppa tycks vara det roligaste han vet | random: vet vara tycks det hoppa han roligaste att
+1.00 | 0.00
+ours: axen lutar sig mot varandra och rasslar svagt | random: svagt sig och rasslar mot varandra lutar axen
+1.00 | 0.07
+ours: bara NUMBER procent av de unga tycker likadant | random: procent av de NUMBER likadant tycker unga bara
+1.00 | 0.11
+ours: bara anna dahlberg lyckades ta sig till semifinal | random: ta semifinal bara anna lyckades dahlberg sig till
+1.00 | 0.07
+ours: bara maria har varit med dem hela tiden | random: dem bara med har maria varit hela tiden
+1.00 | 0.04
+ours: barnombudsmannen ska informera vuxna och barn om barnkonventionen | random: barn vuxna informera om barnombudsmannen ska och barnkonventionen
+1.00 | 0.04
+ours: benazir bhutto skulle egentligen ha samarbetat med musharraf | random: samarbetat musharraf egentligen med skulle bhutto ha benazir
+1.00 | 0.00
+ours: betalar du inte blir ni av med platsen | random: blir platsen av inte betalar ni du med
+1.00 | 0.00
+ours: birgit nilsson ville ha en liten stilla begravning | random: liten ville birgit ha nilsson begravning en stilla
+1.00 | 0.04
+ours: boken handlar om en amerikansk kvinna valerie solanas | random: handlar amerikansk solanas en om boken valerie kvinna
+1.00 | 0.00
+ours: bomben exploderade men romani prodi blev inte skadad | random: inte bomben skadad prodi men blev exploderade romani
+1.00 | 0.00
+ours: bra sa han och spottade ut lite vatten | random: spottade vatten sa ut och bra lite han
+1.00 | 0.00
+ours: carolina svarade med toppresultat i gren efter gren | random: med toppresultat svarade gren efter gren i carolina
+1.00 | 0.14
+ours: chelseas ledare gillade hedman och gav honom jobbet | random: och honom ledare hedman gav jobbet chelseas gillade
+1.00 | 0.00
+ours: chippen spelar idag i den franska klubben nantes | random: nantes spelar den franska i chippen idag klubben
+1.00 | 0.04
+ours: dagen som skulle ha varit den stora dagen | random: varit som stora dagen skulle ha den dagen
+1.00 | 0.07
+ours: damstafetten vanns av norge och herrstafetten av tyskland | random: av tyskland av norge herrstafetten och vanns damstafetten
+1.00 | 0.07
+ours: dawit isaak kom till sverige som flykting NUMBER | random: NUMBER kom till dawit flykting som isaak sverige
+1.00 | 0.04
+ours: de arbetar tillsammans ett tag med en utredning | random: tag de tillsammans arbetar utredning en med ett
+1.00 | 0.00
+ours: de borgerliga partierna tycker att han har fel | random: partierna borgerliga de att fel tycker han har
+1.00 | 0.04
+ours: de dansade jublade och viftade med irakiska flaggor | random: och dansade de viftade flaggor jublade med irakiska
+1.00 | 0.04
+ours: de diskuterade hur eu ska fungera i framtiden | random: diskuterade framtiden ska de hur eu fungera i
+1.00 | 0.14
+ours: de for omkring i ekan huller om buller | random: huller om i ekan omkring buller for de
+1.00 | 0.07
+ours: de fyra partierna har bildat landets nya regering | random: nya bildat fyra partierna regering de landets har
+1.00 | 0.04
+ours: de gick i samlad tropp upp mot huset | random: de tropp huset upp samlad i mot gick
+1.00 | 0.00
+ours: de gick ut och protesterade i alla fall | random: fall och ut gick de i protesterade alla
+1.00 | 0.04
+ours: de hade inte en chans att klara sig | random: att klara hade sig chans de en inte
+1.00 | 0.04
+ours: de har gjort burma till ett fattigt land | random: burma har de land gjort till fattigt ett
+1.00 | 0.00
+ours: de har haft funktionshindret sedan de var barn | random: de de funktionshindret har haft var sedan barn
+1.00 | 0.04
+ours: de har hittat fyra bilar till med bomber | random: de fyra med hittat har till bilar bomber
+1.00 | 0.00
+ours: de har lyckats ta sig runt hela banan | random: ta lyckats de sig banan har runt hela
+1.00 | 0.04
+ours: de har tagit sig in i landet olagligt | random: tagit olagligt i har landet sig in de
+1.00 | 0.04
+ours: de hoppar och ylar och drar i linan | random: drar de linan ylar och i och hoppar
+1.00 | 0.04
+ours: de hyr cyklar och kanoter och spelar minigolf | random: spelar och de minigolf kanoter cyklar hyr och
+1.00 | 0.00
+ours: de olympiska spelen os i kinas huvudstad peking | random: peking huvudstad kinas spelen olympiska os de i
+1.00 | 0.00
+ours: de ringde varandra varje tidig morgon vid tolvtiden | random: varandra vid morgon tidig varje de ringde tolvtiden
+1.00 | 0.04
+ours: de sade att han hade knivskurit en man | random: de knivskurit hade han sade en man att
+1.00 | 0.07
+ours: de satt alldeles blickstilla och lyssnade en stund | random: blickstilla och de stund satt en lyssnade alldeles
+1.00 | 0.04
+ours: de senaste dagarna har folk demonstrerat mot kungen | random: kungen mot dagarna folk har demonstrerat senaste de
+1.00 | 0.00
+ours: de ser ut att vara fulla med regn | random: fulla regn ut vara de att med ser
+1.00 | 0.00
+ours: de ska tillsammans bilda en ny palestinsk regering | random: regering de bilda en ska palestinsk tillsammans ny
+1.00 | 0.04
+ours: de ska vara duktiga och ha mycket ansvar | random: vara och de ha ansvar ska mycket duktiga
+1.00 | 0.00
+ours: de stora pojkarna bakom mig slamrade med stolarna | random: pojkarna stolarna bakom med slamrade de stora mig
+1.00 | 0.04
+ours: de tar med sig skylten hem som minne | random: hem med skylten sig tar minne de som
+1.00 | 0.00
+ours: de tre blev sparkade och slagna av skinnskallarna | random: slagna sparkade de tre och skinnskallarna av blev
+1.00 | 0.04
+ours: de tre svenskarna var bland dem som flydde | random: tre som bland de dem var svenskarna flydde
+1.00 | 0.04
+ours: de undviker moderna saker som bilar och datorer | random: de som och undviker saker datorer moderna bilar
+1.00 | 0.00
+ours: de var soldater i den privata gruppen skorpionerna | random: den de soldater var gruppen i skorpionerna privata
+1.00 | 0.00
+ours: de vill att betygen ska bli mer lika | random: betygen bli att mer ska vill lika de
+1.00 | 0.00
+ours: de visste inte riktigt var de hade landat | random: riktigt landat de inte hade de visste var
+1.00 | 0.04
+ours: demonstranterna ville protestera mot att sverigedemokraterna var med | random: att demonstranterna protestera mot var ville sverigedemokraterna med
+1.00 | 0.04
+ours: den NUMBER oktober kommer domen mot lars ramstedt | random: lars den mot oktober domen kommer NUMBER ramstedt
+1.00 | 0.00
+ours: den cirklar ett par varv runt inez huvud | random: ett varv runt huvud inez den par cirklar
+1.00 | 0.04
+ours: den glada hunden springer i cirklar runt bordet | random: glada runt den cirklar hunden bordet springer i
+1.00 | 0.04
+ours: den lille killen tackade anton med en blick | random: med en den tackade lille anton blick killen
+1.00 | 0.04
+ours: den senaste tiden har forsmark haft stora problem | random: haft problem den senaste har stora tiden forsmark
+1.00 | 0.04
+ours: den stora lavinen begravde alla som var med | random: alla som den stora begravde med lavinen var
+1.00 | 0.07
+ours: den tycker att den har oss under kontroll | random: att under den kontroll har oss den tycker
+1.00 | 0.07
+ours: dessutom har jag ett rum att packa ner | random: jag rum att packa ner har ett dessutom
+1.00 | 0.21
+ours: dessutom har vi pratat om politiken i usa | random: dessutom politiken usa pratat om har vi i
+1.00 | 0.14
+ours: dessutom samarbetar vi redan med polisen i trygghetscenter | random: samarbetar vi redan med dessutom i trygghetscenter polisen
+1.00 | 0.25
+ours: det betyder att sverige kom sexa i em | random: betyder sverige kom em att i det sexa
+1.00 | 0.04
+ours: det betyder god morgon sa nick och log | random: betyder och morgon nick log sa god det
+1.00 | 0.00
+ours: det betyder seger med NUMBER NUMBER i matcher | random: med NUMBER seger NUMBER i matcher betyder det
+1.00 | 0.14
+ours: det blev alldeles lugnt och varmt inuti samra | random: blev varmt lugnt alldeles och inuti det samra
+1.00 | 0.00
+ours: det blev klart efter helgens seger mot reggina | random: reggina seger efter mot helgens klart det blev
+1.00 | 0.04
+ours: det blev mycket diskussioner om den nya lagen | random: om nya den blev diskussioner det mycket lagen
+1.00 | 0.00
+ours: det blev strider mellan soldater polis och demonstranter | random: det soldater blev och polis mellan demonstranter strider
+1.00 | 0.00
+ours: blir det inte riktigt rent men det duger | random: det riktigt duger det blir rent men inte
+0.54 | 0.07
+ours: det blir mat om en timme sa hon | random: en hon sa mat om blir det timme
+1.00 | 0.04
+ours: det bryr sig sally inte ett dugg om | random: det sig dugg sally om inte bryr ett
+1.00 | 0.00
+ours: det dundrar i marken under hans tunga hovar | random: det i marken tunga dundrar hovar hans under
+1.00 | 0.04
+ours: det fanns inte tid att vara psykiskt sjuk | random: inte det fanns sjuk tid psykiskt att vara
+1.00 | 0.07
+ours: det far tusen hemska tankar genom mitt huvud | random: huvud mitt far det tankar tusen hemska genom
+1.00 | 0.04
+ours: det finns NUMBER bibliotek i de olika stadsdelarna | random: NUMBER olika finns det i stadsdelarna bibliotek de
+1.00 | 0.00
+ours: det finns en sjukdom som heter hepatit c | random: sjukdom heter finns som det c hepatit en
+1.00 | 0.00
+ours: det finns fyra internationella skolor i stockholms stad | random: i skolor internationella finns stockholms stad det fyra
+1.00 | 0.04
+ours: det finns ingen som jag vill prata med | random: vill som det finns ingen jag med prata
+1.00 | 0.11
+ours: det finns mycket problem som handlar om vatten | random: handlar problem vatten mycket som det finns om
+1.00 | 0.04
+ours: det finns mycket sex i tidningar och reklam | random: och det tidningar mycket reklam finns sex i
+1.00 | 0.04
+ours: det finns omkring tiotusen olagliga invandrare i sverige | random: sverige invandrare i tiotusen finns omkring det olagliga
+1.00 | 0.07
+ours: det finns organisationer som delar ut mat ibland | random: organisationer mat ibland finns delar ut som det
+1.00 | 0.07
+ours: det gick ju inte att prata med dem | random: dem med ju gick att prata det inte
+1.00 | 0.04
+ours: det gick som en darrning genom hans kropp | random: som kropp genom en gick det darrning hans
+1.00 | 0.00
+ours: det gjorde jag inte alls svarar kajsa hetsigt | random: kajsa hetsigt inte det alls svarar jag gjorde
+1.00 | 0.07
+ours: det hade han gjort hela morgonen sa han | random: sa det gjort morgonen hela han hade han
+1.00 | 0.04
+ours: det hade hon varit sen hon var liten | random: var hade hon liten det sen hon varit
+1.00 | 0.11
+ours: det hade kommit en ny tidning sedan sist | random: kommit ny sist det sedan en hade tidning
+1.00 | 0.00
+ours: det har fastnat massor med flugor runt dem | random: dem har fastnat det massor med runt flugor
+1.00 | 0.07
+ours: det har ivar sagt och han ljuger inte | random: och inte ivar har sagt det ljuger han
+1.00 | 0.00
+ours: det har varit fantastiskt att spela i united | random: att spela i united varit har det fantastiskt
+1.00 | 0.21
+ours: det kan bli en regering utan partiet srs | random: det kan regering en bli utan partiet srs
+1.00 | 0.14
+ours: det kan finnas text om dig i datorer | random: i det kan om dig finnas datorer text
+1.00 | 0.07
+ours: det kan till exempel vara avtal om tullavgifter | random: till om kan avtal tullavgifter exempel det vara
+1.00 | 0.00
+ours: det kan vara en skola eller ett bibliotek | random: en vara det eller ett kan bibliotek skola
+1.00 | 0.04
+ours: det kan vara ett brott mot eus lagar | random: brott eus det vara lagar kan mot ett
+1.00 | 0.00
+ours: det kan vara jordbruk skola eller statens pengar | random: pengar vara statens det jordbruk kan skola eller
+1.00 | 0.04
+ours: det kan vara narkotika dopningsmedel alkohol eller cigaretter | random: cigaretter alkohol vara narkotika kan det dopningsmedel eller
+1.00 | 0.04
+ours: det kan vara salt florsocker pulversoppor med mera | random: kan vara salt pulversoppor mera med florsocker det
+1.00 | 0.11
+ours: det lovade usas utrikesminister condoleezza rice i tisdags | random: det utrikesminister tisdags i condoleezza rice lovade usas
+1.00 | 0.07
+ours: det norske veritas inspection ab dnv kontrollerar mobilkranar | random: det veritas inspection kontrollerar ab mobilkranar dnv norske
+1.00 | 0.04
+ours: det partiet tycker likadant som presidenten vladimir putin | random: som likadant partiet putin presidenten vladimir tycker det
+1.00 | 0.04
+ours: det sa hon till och med till mig | random: det mig och sa med till hon till
+1.00 | 0.07
+ours: det sade sveriges utrikesminister carl bildt i helgen | random: helgen sade carl sveriges bildt det utrikesminister i
+1.00 | 0.00
+ours: det ser ju alldeles vasst och taggigt ut | random: taggigt alldeles ju ut och det ser vasst
+1.00 | 0.04
+ours: det ser mer ut som smuts sa mamma | random: smuts det sa mer mamma som ut ser
+1.00 | 0.00
+ours: det ser ut som om han tar sats | random: som han ut tar ser sats om det
+1.00 | 0.00
+ours: det ska bli ett nytt val i thailand | random: i nytt thailand ska val det bli ett
+1.00 | 0.04
+ours: det ska vara en matsked socker i filen | random: det i vara matsked socker en filen ska
+1.00 | 0.04
+ours: det ska vara val i pakistan i januari | random: vara i januari val ska det i pakistan
+1.00 | 0.07
+ours: det skriver den tjeckiska tidningen mlada fronta dnes | random: skriver dnes fronta mlada tidningen den tjeckiska det
+1.00 | 0.04
+ours: det skriver forsmark i sin rapport till ski | random: rapport till det skriver i forsmark sin ski
+1.00 | 0.07
+ours: det skriver organisationen amnesty international i en rapport | random: skriver amnesty i organisationen det international rapport en
+1.00 | 0.04
+ours: det skriver socialstyrelsens chefer i tidningen dagens nyheter | random: nyheter det tidningen chefer dagens socialstyrelsens i skriver
+1.00 | 0.00
+ours: det skriver tre lagexperter i tidningen dagens nyheter | random: i nyheter det tre dagens lagexperter tidningen skriver
+1.00 | 0.00
+ours: det som kallades behandling var ofta grym tortyr | random: ofta kallades tortyr det som behandling grym var
+1.00 | 0.04
+ours: det tog emot att ringa joakim just nu | random: emot ringa det just att tog nu joakim
+1.00 | 0.00
+ours: det var aldrig fel att ha en kompis | random: en att kompis fel aldrig ha var det
+1.00 | 0.00
+ours: det var alltid jag som gjorde allting fel | random: gjorde alltid som det allting var fel jag
+1.00 | 0.00
+ours: det var det planet som han skulle bygga | random: skulle som planet det bygga det var han
+1.00 | 0.04
+ours: det var din och min hemlighet viskade han | random: hemlighet och viskade var det din han min
+1.00 | 0.00
+ours: det var en bra bit bort till planet | random: en bra bort det planet bit till var
+1.00 | 0.04
+ours: det var en liten man med stor mage | random: var med stor man liten mage en det
+1.00 | 0.04
+ours: det var hennes andra guld i detta os | random: det guld detta os i andra var hennes
+1.00 | 0.07
+ours: det var i alla fall supersmart sa benke | random: det i supersmart alla fall var sa benke
+1.00 | 0.07
+ours: det var i samband med valet i irak | random: i med valet det samband var irak i
+1.00 | 0.04
+ours: det var jag som hittade den sa jag | random: jag var det den sa hittade som jag
+1.00 | 0.04
+ours: det var jag som ville ut och resa | random: ville och ut resa som jag det var
+1.00 | 0.04
+ours: det var ju hon som var morfars kompis | random: det morfars som hon var var kompis ju
+1.00 | 0.00
+ours: det var ju kolsvarta natten vattnet var kallt | random: var ju kolsvarta var natten det kallt vattnet
+1.00 | 0.11
+ours: det var kajsa som tvingade honom svarar jag | random: kajsa som var jag svarar honom tvingade det
+1.00 | 0.04
+ours: det var minst tio meter ner till vattnet | random: var det vattnet tio till minst meter ner
+1.00 | 0.04
+ours: det var precis som han hade en aning | random: han hade aning en var precis det som
+1.00 | 0.07
+ours: det var samma dag som de blev ihop | random: dag var blev ihop som samma det de
+1.00 | 0.04
+ours: det var sannerligen ingen festlokal de hamnat i | random: var hamnat ingen festlokal sannerligen de i det
+1.00 | 0.04
+ours: det var som om arvid rask visste allt | random: allt arvid om visste var rask som det
+1.00 | 0.00
+ours: tur att det var hon redan satt ner | random: hon var det att tur ner satt redan
+0.29 | 0.00
+ours: det verkar som om han har mycket ont | random: det om verkar ont han mycket har som
+1.00 | 0.00
+ours: det vet jag och det spelar ingen roll | random: det spelar och vet roll ingen det jag
+1.00 | 0.04
+ours: det vi var med om inatt till exempel | random: till vi med inatt var det exempel om
+1.00 | 0.00
+ours: det viktigaste var att han fick spela fotboll | random: det viktigaste fick spela fotboll han var att
+1.00 | 0.18
+ours: det vill regeringen stoppa med en ny lag | random: en stoppa regeringen ny lag det med vill
+1.00 | 0.07
+ours: det visar en rapport som skolverket har gjort | random: som gjort rapport har skolverket visar en det
+1.00 | 0.04
+ours: det visar forskning som karolinska institutet har gjort | random: karolinska forskning institutet visar som har gjort det
+1.00 | 0.04
+ours: det visar hemliga papper som hittats i irak | random: det hemliga som visar hittats irak papper i
+1.00 | 0.00
+ours: det vore som att byta godis mot guld | random: som det att guld byta godis vore mot
+1.00 | 0.04
+ours: diamantbollen kan bara delas ut till svenska spelare | random: till delas bara svenska kan diamantbollen spelare ut
+1.00 | 0.00
+ours: dig vet jag redan allting om hojtar hon | random: jag dig allting om vet redan hojtar hon
+1.00 | 0.07
+ours: diskrimineringsgombudsmannen do tycker att kvinnorna har behandlats fel | random: tycker do fel har behandlats kvinnorna att diskrimineringsgombudsmannen
+1.00 | 0.04
+ours: ditte darrade i hela kroppen men nickade bifall | random: men i ditte kroppen darrade hela nickade bifall
+1.00 | 0.04
+ours: ditte fnittrade hysteriskt och felix fattade fortfarande noll | random: och fnittrade felix fortfarande hysteriskt ditte fattade noll
+1.00 | 0.00
+ours: dom ser ju ut som dansskor suckade han | random: dom som ser suckade dansskor ju ut han
+1.00 | 0.04
+ours: domstolen kan i vissa fall ge mildare straff | random: ge vissa fall mildare domstolen i kan straff
+1.00 | 0.04
+ours: domstolen tycker inte att resan var en muta | random: tycker en resan domstolen att var inte muta
+1.00 | 0.00
+ours: doont worry sa han som hatade klumpar annars | random: doont sa som annars han klumpar worry hatade
+1.00 | 0.00
+ours: drick mycket vatten men lite i taget ofta | random: vatten lite i mycket taget drick ofta men
+1.00 | 0.04
+ours: du flicka lilla det var en sak till | random: sak var lilla flicka en du det till
+1.00 | 0.00
+ours: du jag kommer hem till dej i eftermiddag | random: dej jag eftermiddag till i kommer du hem
+1.00 | 0.00
+ours: du kan alltid be om den billigare sorten | random: du billigare sorten be kan om alltid den
+1.00 | 0.04
+ours: du kan bo i mitt rum sa farfar | random: sa kan rum du bo mitt i farfar
+1.00 | 0.00
+ours: du kan ringa hela dagen och hela natten | random: ringa du och dagen hela hela natten kan
+1.00 | 0.04
+ours: du kan ringa till apotekets kundcentrum hela dygnet | random: kundcentrum kan du apotekets dygnet till ringa hela
+1.00 | 0.00
+ours: du kan se bilderna till slutet av januari | random: bilderna till av slutet kan januari se du
+1.00 | 0.04
+ours: du kan skicka in fram till NUMBER juni | random: kan skicka fram in du NUMBER till juni
+1.00 | 0.04
+ours: du kan testa hur mycket du redan kan | random: du hur kan redan testa kan du mycket
+1.00 | 0.00
+ours: du kan vara glad att du fortfarande lever | random: lever du du vara fortfarande att kan glad
+1.00 | 0.00
+ours: du kan vara glad att du har henne | random: har henne att vara glad du kan du
+1.00 | 0.11
+ours: du kanske har gjort ett fynd trots allt | random: fynd gjort allt har ett kanske du trots
+1.00 | 0.00
+ours: du sa samra jag hinner inte prata nu | random: nu jag sa du samra inte prata hinner
+1.00 | 0.04
+ours: du ska inte skymfa gud ulf sa farmor | random: ska farmor gud du sa inte ulf skymfa
+1.00 | 0.00
+ours: du ska se att det blir bra nu | random: ska bra se att det du blir nu
+1.00 | 0.11
+ours: edsbyn har varit i fyra finaler i rad | random: finaler fyra i i har varit edsbyn rad
+1.00 | 0.04
+ours: efter det hade ricke jagat anton varje dag | random: anton efter hade ricke dag jagat varje det
+1.00 | 0.04
+ours: efter hand troppar de andra i klassen in | random: hand in andra troppar de efter klassen i
+1.00 | 0.07
+ours: elise jamade lite och satte sig bredvid lisa | random: och satte jamade lite lisa sig elise bredvid
+1.00 | 0.07
+ours: eller en riktig hund med nos och svans | random: svans och riktig hund med en nos eller
+1.00 | 0.11
+ours: emil och jag ska till mallorca med mamma | random: och till ska jag med emil mallorca mamma
+1.00 | 0.00
+ours: emrik har fortsatt att spela och vara discjockey | random: spela har att discjockey emrik vara och fortsatt
+1.00 | 0.00
+ours: en annan avdelning arbetar med att stoppa smuggling | random: stoppa smuggling annan med avdelning arbetar en att
+1.00 | 0.07
+ours: en av bilarna de hade med sig exploderade | random: av med bilarna exploderade de sig en hade
+1.00 | 0.00
+ours: en av ungdomarna fick stanna kvar hos polisen | random: kvar ungdomarna fick en stanna av hos polisen
+1.00 | 0.07
+ours: en bil kan ha haft flera stycken registreringsbevis | random: bil en haft registreringsbevis flera ha stycken kan
+1.00 | 0.00
+ours: en del tippar att han blir ny ledare | random: han ny en tippar blir del att ledare
+1.00 | 0.00
+ours: en del tror att han ljuger om det | random: att om det tror ljuger han del en
+1.00 | 0.04
+ours: en hel by har begravts i ett jordskred | random: ett jordskred hel en har by i begravts
+1.00 | 0.04
+ours: en kamp som stenson till slut lyckades vinna | random: kamp som vinna en till slut lyckades stenson
+1.00 | 0.14
+ours: en katt mer eller mindre spelar ingen roll | random: mer ingen mindre eller roll spelar katt en
+1.00 | 0.00
+ours: en kreditupplysning handlar om dig och din ekonomi | random: och om kreditupplysning dig en din ekonomi handlar
+1.00 | 0.04
+ours: en kvinna och tre barn skadades i attacken | random: barn tre attacken och kvinna skadades i en
+1.00 | 0.04
+ours: en kylig frisk luft kom in i rummet | random: frisk kylig rummet luft in en i kom
+1.00 | 0.00
+ours: en man har gripits av polisen i sundsvall | random: har polisen av sundsvall en i man gripits
+1.00 | 0.04
+ours: en spegelblank havsvik gav honom pirr i magen | random: magen havsvik spegelblank honom en gav pirr i
+1.00 | 0.04
+ours: erik gav lappen till killen som satt bredvid | random: gav till bredvid satt som killen lappen erik
+1.00 | 0.00
+ours: erik gick fram till honom nickade och log | random: log erik nickade och honom fram till gick
+1.00 | 0.07
+ours: erik hade ju legat mellan bollen och manuel | random: och legat manuel ju mellan erik hade bollen
+1.00 | 0.04
+ours: erik satt och stirrade ut i tomma luften | random: erik och i tomma satt luften stirrade ut
+1.00 | 0.07
+ours: erik sparkade av locket och letade genom den | random: erik den locket av och sparkade letade genom
+1.00 | 0.04
+ours: ett kallt vinddrag kom svepande in under brovalvet | random: vinddrag svepande in kom under kallt ett brovalvet
+1.00 | 0.04
+ours: ett par timmar senare var det dags igen | random: igen det timmar var ett par dags senare
+1.00 | 0.04
+ours: fanns verkligen den enda vettiga ponnyn i kiruna | random: verkligen kiruna vettiga enda ponnyn fanns den i
+1.00 | 0.00
+ours: fartyget ligger fortfarande upp och ner i vattnet | random: vattnet i ner fortfarande upp ligger fartyget och
+1.00 | 0.04
+ours: fatah och hamas har samarbetat i palestiniernas regering | random: palestiniernas regering samarbetat hamas i och fatah har
+1.00 | 0.04
+ours: fem amerikanska soldater och tre irakiska poliser dog | random: poliser och fem dog amerikanska tre irakiska soldater
+1.00 | 0.04
+ours: fem av de hotade floderna ligger i asien | random: av floderna ligger de fem hotade i asien
+1.00 | 0.07
+ours: fem minuter senare var vi tillbaka i helsingborg | random: vi senare helsingborg tillbaka i var minuter fem
+1.00 | 0.04
+ours: fettsyrorna epa och dha finns inte i vegankosten | random: i epa och fettsyrorna inte finns vegankosten dha
+1.00 | 0.04
+ours: fidel castro tog makten i en revolution NUMBER | random: tog NUMBER revolution en i castro makten fidel
+1.00 | 0.04
+ours: fler och fler politiker har lyssnat till protesterna | random: lyssnat har fler politiker fler och till protesterna
+1.00 | 0.11
+ours: flygbolaget viking airways har tretusen svenskar i irak | random: flygbolaget irak airways har tretusen viking i svenskar
+1.00 | 0.11
+ours: framme vid tavlan tog han en vit krita | random: framme tog vid han en krita vit tavlan
+1.00 | 0.04
+ours: framtiden ser lite ljusare ut sade frankrikes utrikesminister | random: ut ser frankrikes ljusare utrikesminister sade lite framtiden
+1.00 | 0.00
+ours: frankrike har aldrig tidigare haft en kvinnlig president | random: tidigare president haft frankrike aldrig har kvinnlig en
+1.00 | 0.00
+ours: frankrike vann onsdagens viktiga match med NUMBER NUMBER | random: match vann onsdagens NUMBER med NUMBER viktiga frankrike
+1.00 | 0.07
+ours: frederic bloom bodde i ett mycket fyrkantigt hus | random: fyrkantigt i ett bloom bodde hus frederic mycket
+1.00 | 0.07
+ours: friskolor som inte ger information ska kunna straffas | random: friskolor ger ska information inte som straffas kunna
+1.00 | 0.00
+ours: fysikpristagarna heter george smoot och john c mather | random: mather george och john fysikpristagarna c heter smoot
+1.00 | 0.04
+ours: gruppen drog sig in i en vindskyddad klippskreva | random: drog gruppen in i en klippskreva sig vindskyddad
+1.00 | 0.11
+ours: gruppen jihad sade att de hade skjutit raketerna | random: skjutit att hade gruppen raketerna jihad sade de
+1.00 | 0.04
+ours: gubben i skogen hade kommit in i huset | random: kommit in skogen gubben huset hade i i
+1.00 | 0.04
+ours: gunnel var hemma och tog hand om barnen | random: om och barnen hemma hand tog var gunnel
+1.00 | 0.00
+ours: hade han tagit livet av sig till sist | random: tagit han sig av livet till hade sist
+1.00 | 0.00
+ours: han arbetade vresigt vidare med tre stora dukar | random: dukar han stora vidare tre arbetade med vresigt
+1.00 | 0.00
+ours: han arbete ligger i new york i usa | random: york arbete new ligger i han i usa
+1.00 | 0.07
+ours: han bet ihop och stirrade ner i marken | random: stirrade ner han i och ihop bet marken
+1.00 | 0.04
+ours: han fattade precis vad den andre killen sa | random: han killen fattade sa vad andre den precis
+1.00 | 0.00
+ours: han gick mot staketet med bollen under armen | random: med armen han gick mot under bollen staketet
+1.00 | 0.11
+ours: han gick sakta fram till den svarta tavlan | random: han svarta fram till sakta tavlan den gick
+1.00 | 0.04
+ours: han grubblade febrilt efter vad ditte kunde gilla | random: efter han febrilt vad grubblade ditte gilla kunde
+1.00 | 0.00
+ours: han hade ingen lust att spela med dem | random: han med lust ingen dem spela att hade
+1.00 | 0.00
+ours: han hade inte sett badrocken sen mamma dog | random: mamma dog sen badrocken sett han hade inte
+1.00 | 0.14
+ours: han hade lovat att aldrig mer spela fotboll | random: aldrig lovat han spela hade att fotboll mer
+1.00 | 0.00
+ours: han hade varit skyldig hur mycket som helst | random: hade han hur skyldig varit som mycket helst
+1.00 | 0.00
+ours: han har blivit en av inters viktigaste spelare | random: av blivit viktigaste en han har inters spelare
+1.00 | 0.04
+ours: han har en kompis som skulle passa dej | random: kompis skulle han som dej har passa en
+1.00 | 0.00
+ours: han har fru och barn barnbarn och barnbarnsbarn | random: barnbarn fru och har och barnbarnsbarn han barn
+1.00 | 0.07
+ours: han har haft kontakt med honom hela tiden | random: har hela han honom kontakt med tiden haft
+1.00 | 0.04
+ours: han hette mustafa garmeny och arbetade som journalist | random: hette garmeny som journalist arbetade mustafa han och
+1.00 | 0.04
+ours: han hoppades att ingen skulle prata med honom | random: prata han ingen med att honom hoppades skulle
+1.00 | 0.00
+ours: han hoppades att mamma var med honom nu | random: med att han hoppades var mamma nu honom
+1.00 | 0.04
+ours: han kan inte ha en chans mot dem | random: ha han mot inte dem chans en kan
+1.00 | 0.00
+ours: han kanske hellre vill vara ihop med melissa | random: vill med hellre vara ihop kanske melissa han
+1.00 | 0.04
+ours: han kollade att kompassen fanns med och mobiltelefonen | random: mobiltelefonen och kompassen han att kollade fanns med
+1.00 | 0.04
+ours: han lade armarna i ett grepp om ricke | random: lade armarna ett om i ricke grepp han
+1.00 | 0.04
+ours: han ligger under en stor och tung sten | random: ligger sten under en han och tung stor
+1.00 | 0.07
+ours: han plockade ett som han gav till mej | random: mej gav till som han han ett plockade
+1.00 | 0.07
+ours: han sade att religionen inte ska bli viktigare | random: ska sade bli religionen han att inte viktigare
+1.00 | 0.00
+ours: han ser nog ut som jag menar turbin | random: turbin som menar ser nog jag ut han
+1.00 | 0.04
+ours: han skrattade lite och tittade ner i marken | random: och i tittade lite ner han marken skrattade
+1.00 | 0.00
+ours: han som stod bredvid oss hade en liten | random: bredvid oss hade han stod en som liten
+1.00 | 0.11
+ours: han sparkar till det allt vad han orkar | random: orkar sparkar han han det allt till vad
+1.00 | 0.04
+ours: han stoppade in kikaren i dess fodral igen | random: kikaren in i dess stoppade han igen fodral
+1.00 | 0.04
+ours: han syrra hade redan varit en kilometer bort | random: syrra varit en bort hade redan kilometer han
+1.00 | 0.07
+ours: han tar nog bara en promenad sa farmor | random: promenad tar farmor nog han sa bara en
+1.00 | 0.04
+ours: han tog mej till och med om axlarna | random: tog och om med mej han axlarna till
+1.00 | 0.00
+ours: han torkade av det smutsiga knivbladet mot byxbenet | random: knivbladet mot det smutsiga av torkade han byxbenet
+1.00 | 0.07
+ours: han trodde kanske inte att vi skulle gro | random: kanske skulle vi att gro han inte trodde
+1.00 | 0.00
+ours: han tror att det kommer att ta tid | random: ta att det att tid kommer tror han
+1.00 | 0.04
+ours: han tyckte inte illa om henne som politiker | random: politiker henne han om som illa tyckte inte
+1.00 | 0.04
+ours: han tystnade och slog efter en enveten fluga | random: tystnade en han enveten efter slog och fluga
+1.00 | 0.00
+ours: han var bara femton sekunder efter segraren rotjev | random: efter rotjev segraren han femton bara sekunder var
+1.00 | 0.00
+ours: han var ett helgon och ett underbarn percy | random: helgon var underbarn percy ett och ett han
+1.00 | 0.07
+ours: han var tuffast av alla i hela kriget | random: i kriget han var av hela alla tuffast
+1.00 | 0.04
+ours: han ville vara kapten i sitt eget lag | random: sitt lag vara ville eget i han kapten
+1.00 | 0.00
+ours: han visade hur vi skulle ladda och sikta | random: skulle sikta han vi ladda och hur visade
+1.00 | 0.07
+ours: han visste aldrig riktigt var han hade ditte | random: hade visste ditte han han aldrig riktigt var
+1.00 | 0.11
+ours: hans gympadojor var minst lika slitna som nicks | random: gympadojor var slitna minst lika som hans nicks
+1.00 | 0.07
+ours: hej sa hon utan att ens titta upp | random: titta hon upp att ens utan hej sa
+1.00 | 0.07
+ours: hela kajsas familj tycker fortfarande illa om morfar | random: tycker om illa hela morfar familj fortfarande kajsas
+1.00 | 0.00
+ours: hela tiden sade fossmo att han var oskyldig | random: att han sade hela tiden oskyldig var fossmo
+1.00 | 0.07
+ours: henke larsson och fredrik ljungberg spelade inte heller | random: larsson och henke heller spelade fredrik inte ljungberg
+1.00 | 0.04
+ours: henrik larsson tillbaka i sverige ja till helsingborg | random: sverige helsingborg i henrik ja till tillbaka larsson
+1.00 | 0.04
+ours: henrik larsson vill komma hem till sverige igen | random: henrik larsson komma hem till sverige vill igen
+1.00 | 0.25
+ours: himlen hade blivit helmulen och vattenglittret var borta | random: himlen hade borta helmulen och var vattenglittret blivit
+1.00 | 0.07
+ours: hittills har strejken kostat omkring NUMBER miljoner kronor | random: kostat miljoner omkring strejken NUMBER har kronor hittills
+1.00 | 0.00
+ours: ho har ett eget kontor som kallas kansli | random: eget kontor ett som kansli ho kallas har
+1.00 | 0.04
+ours: hon hade just skickat ett sms till felix | random: just till hon felix ett skickat hade sms
+1.00 | 0.00
+ours: hon hade redan delat in oss i grupper | random: grupper hon in hade redan oss delat i
+1.00 | 0.07
+ours: hon har en bunt med kuvert i cykelkorgen | random: kuvert cykelkorgen i med bunt hon en har
+1.00 | 0.00
+ours: hon har inte varit ute sen i september | random: har september sen hon ute i varit inte
+1.00 | 0.00
+ours: hon har ont i benen axlarna och nacken | random: axlarna nacken har ont i och hon benen
+1.00 | 0.11
+ours: hon har ramlat av cykeln och brutit foten | random: ramlat har hon och foten av brutit cykeln
+1.00 | 0.00
+ours: hon har tagit hand om alla hundarna ensam | random: tagit alla hon ensam har hand om hundarna
+1.00 | 0.04
+ours: hon hittades skjuten i sitt hus i moskva | random: hus hon i moskva skjuten hittades i sitt
+1.00 | 0.07
+ours: hon kanske till och med skulle slippa rullstolen | random: kanske och med rullstolen slippa till skulle hon
+1.00 | 0.04
+ours: hon missade fyra skott vid de fyra skjutningarna | random: missade de vid skott skjutningarna fyra hon fyra
+1.00 | 0.00
+ours: hon skriver till exempel om gorkijparken i moskva | random: exempel om till hon gorkijparken moskva i skriver
+1.00 | 0.04
+ours: hon springer runt huset och oscar springer efter | random: hon springer efter springer oscar runt huset och
+1.00 | 0.18
+ours: hon tar ett stadigt tag i hennes arm | random: ett arm hon stadigt tar tag hennes i
+1.00 | 0.00
+ours: hon vill att vi ska rida utan sadel | random: hon rida sadel ska vill vi att utan
+1.00 | 0.00
+ours: honom var det minsann ruter i sa farfar | random: minsann honom i var sa ruter farfar det
+1.00 | 0.00
+ours: hos mamma i stan kommer vattnet ur kranen | random: kommer i mamma stan hos vattnet kranen ur
+1.00 | 0.00
+ours: hummern och den viktiga sillen finns i havet | random: finns hummern och sillen den havet i viktiga
+1.00 | 0.04
+ours: hur kan man bli begravd vid sitt hus | random: begravd hus kan man vid hur bli sitt
+1.00 | 0.04
+ours: hur lockar man fler svenskar att ta cykeln | random: att lockar man fler ta cykeln svenskar hur
+1.00 | 0.14
+ours: i am you are he she it is | random: it i are am is he she you
+1.00 | 0.07
+ours: i dag torsdag spelar tre kronor mot ryssland | random: i ryssland torsdag spelar mot kronor dag tre
+1.00 | 0.04
+ours: i det sista satsade han allt och klarade | random: det allt och i han satsade sista klarade
+1.00 | 0.04
+ours: i halland och i blekinge rapporterades tjugo inbrott | random: och i tjugo blekinge i halland inbrott rapporterades
+1.00 | 0.07
+ours: i helgen satte han nytt svenskt rekord inomhus | random: satte han inomhus rekord helgen svenskt i nytt
+1.00 | 0.04
+ours: det visade han att han var i helgen | random: han det visade var att helgen i han
+0.39 | 0.00
+ours: i mars ska det vara val i ukraina | random: mars det i ukraina i vara ska val
+1.00 | 0.04
+ours: i morgon ska vi ha fest sa morfar | random: vi sa ha ska i fest morgon morfar
+1.00 | 0.00
+ours: i morse kunde du inte ens hitta mej | random: inte ens kunde i hitta mej morse du
+1.00 | 0.07
+ours: i slutet av veckan kommer resultatet av testerna | random: testerna slutet av av i kommer resultatet veckan
+1.00 | 0.07
+ours: i sverige har vi rent och bra kranvatten | random: rent vi har i och kranvatten bra sverige
+1.00 | 0.00
+ours: i sveriges grupp spelar nigeria usa och nordkorea | random: grupp spelar nordkorea och i sveriges usa nigeria
+1.00 | 0.07
+ours: i tisdags lovade hamas att inte ta pengarna | random: att i hamas inte ta pengarna lovade tisdags
+1.00 | 0.14
+ours: i torsdags sa de ryska ledarna samma sak | random: ryska torsdags samma ledarna de sa i sak
+1.00 | 0.00
+ours: i torsdags tvingades kjell jonevret sluta sitt jobb | random: kjell tvingades sitt jonevret i jobb torsdags sluta
+1.00 | 0.00
+ours: i usa och kanada finns redan liknande regler | random: i finns redan usa och kanada regler liknande
+1.00 | 0.14
+ours: ibland skrattade de och ibland var de allvarliga | random: de skrattade var de och ibland ibland allvarliga
+1.00 | 0.14
+ours: idag finns den nya tekniken i alla datorer | random: alla den finns idag datorer nya tekniken i
+1.00 | 0.11
+ours: inez kramar tallen tills armarna blir alldeles stela | random: tallen stela armarna blir kramar alldeles inez tills
+1.00 | 0.04
+ours: inez och martina stoppar ner nycklarna i fickorna | random: ner nycklarna och martina i fickorna inez stoppar
+1.00 | 0.11
+ours: inez snuddar inte ens med blicken vid honom | random: med inez snuddar inte vid honom blicken ens
+1.00 | 0.14
+ours: inga av barnen verkar ha skadats av medicinen | random: barnen inga av av skadats ha medicinen verkar
+1.00 | 0.04
+ours: inga soldater i libanon kommer att vara svenska | random: att svenska vara kommer i inga soldater libanon
+1.00 | 0.04
+ours: ingen av gurkorna i testet fick betyget medel | random: medel av betyget fick testet i gurkorna ingen
+1.00 | 0.00
+ours: ingen vet vem som har lagt ut bomberna | random: bomberna har som lagt ut vem vet ingen
+1.00 | 0.04
+ours: innan var serbien en del av landet jugoslavien | random: landet serbien var del jugoslavien en innan av
+1.00 | 0.00
+ours: innerst inne visste hon inte om hon trodde | random: om hon innerst hon visste trodde inne inte
+1.00 | 0.04
+ours: inte bara mig utan barnet som var eskils | random: eskils barnet mig bara inte var som utan
+1.00 | 0.00
+ours: inte en enda droppe regn kommer att falla | random: regn enda falla kommer att en droppe inte
+1.00 | 0.04
+ours: inte ens en spirello har hon i magen | random: en hon inte ens har i magen spirello
+1.00 | 0.07
+ours: inte gjorde pengarna att jag saknade malte mindre | random: malte mindre pengarna saknade jag att inte gjorde
+1.00 | 0.07
+ours: inte lugn och ro sa ulric steen tyst | random: steen och ulric inte ro lugn tyst sa
+1.00 | 0.00
+ours: han ser inte ut som en vinnare direkt | random: som en inte han vinnare direkt ut ser
+0.36 | 0.07
+ours: inte ska du sitta och vara hungrig inte | random: ska inte inte hungrig vara du sitta och
+1.00 | 0.11
+ours: intrasslade i varandra faller de ner i soffan | random: intrasslade i varandra i soffan faller de ner
+1.00 | 0.25
+ours: israel planerar att skicka fler soldater till libanon | random: att libanon skicka israel soldater till planerar fler
+1.00 | 0.04
+ours: ja ditte och felix kommer att vara med | random: att med felix kommer ja vara ditte och
+1.00 | 0.07
+ours: ja han hatade till och med real madrid | random: han real ja madrid och till hatade med
+1.00 | 0.00
+ours: ja jag vaknade och kunde inte somna om | random: jag inte om vaknade ja kunde och somna
+1.00 | 0.00
+ours: ja sa mormor du kan ta min cykel | random: kan sa du ta mormor min cykel ja
+1.00 | 0.04
+ours: ja vi fick rapporten men den var otydlig | random: var fick vi rapporten otydlig men ja den
+1.00 | 0.00
+ours: ja vi tyckte om varann det gjorde vi | random: gjorde om varann det vi vi ja tyckte
+1.00 | 0.11
+ours: jag bara inte trodde att det var du | random: bara inte trodde var att jag det du
+1.00 | 0.11
+ours: om att jag bryr mig inte ens svara | random: att inte ens svara mig bryr jag om
+0.39 | 0.04
+ours: jag fattar inte hur kalle kan gilla henne | random: fattar gilla inte henne jag kalle hur kan
+1.00 | 0.00
+ours: jag gjorde det inte med vilje sa erik | random: det jag erik inte med gjorde vilje sa
+1.00 | 0.07
+ours: jag har ingen aning om vart dom skulle | random: dom har vart ingen aning skulle jag om
+1.00 | 0.04
+ours: jag har ingen anledning att bryta upp den | random: den jag upp bryta att anledning ingen har
+1.00 | 0.00
+ours: jag hinner bara inte till stallet i dag | random: bara jag i inte dag hinner till stallet
+1.00 | 0.04
+ours: jag hittade den i en komocka sa klasse | random: sa klasse jag den en hittade i komocka
+1.00 | 0.04
+ours: jag hittade en korg och gick till skafferiet | random: jag skafferiet gick och hittade korg en till
+1.00 | 0.00
+ours: jag hoppas att alla sjunger med log hon | random: sjunger jag hoppas att alla med log hon
+1.00 | 0.32
+ours: jag hoppas att ni ska trivas i skolan | random: att hoppas trivas skolan ska jag ni i
+1.00 | 0.00
+ours: jag hoppas i alla fall att du kommer | random: fall alla att i kommer jag du hoppas
+1.00 | 0.00
+ours: jag hostade och blev helt yr i huvudet | random: yr i och huvudet hostade helt jag blev
+1.00 | 0.04
+ours: jag kan sova var som helst sa percy | random: som sa percy jag helst sova var kan
+1.00 | 0.07
+ours: jag kommer aldrig mer att prata med honom | random: jag mer aldrig med honom prata att kommer
+1.00 | 0.07
+ours: jag kravlar mig upp och springer mot utfarten | random: kravlar utfarten mig och springer mot upp jag
+1.00 | 0.11
+ours: jag letar fram telefonnumret till ridskolan och ringer | random: fram och till telefonnumret ridskolan jag letar ringer
+1.00 | 0.04
+ours: jag lovade att komma hem direkt efter skolan | random: jag lovade direkt efter komma skolan att hem
+1.00 | 0.07
+ours: jag reste mig och gick fram till tavlan | random: jag och gick fram mig reste tavlan till
+1.00 | 0.11
+ours: jag sa att jag skulle avvakta ett tag | random: avvakta ett tag skulle att jag jag sa
+1.00 | 0.18
+ours: sa jag inte att ingen tyckte om henne | random: henne tyckte om att inte ingen sa jag
+0.54 | 0.04
+ours: jag sa ju att det skulle bli roligt | random: jag skulle bli ju det att sa roligt
+1.00 | 0.04
+ours: jag sa ju att jag skulle kirra det | random: jag jag att skulle ju det kirra sa
+1.00 | 0.00
+ours: jag sitter av och majsan sitter snabbt upp | random: snabbt majsan sitter sitter av jag upp och
+1.00 | 0.07
+ours: jag ska skriva en bok om det konstigt | random: konstigt det bok jag en om ska skriva
+1.00 | 0.04
+ours: jag ska spela match i morgon sa han | random: spela match sa morgon han i ska jag
+1.00 | 0.04
+ours: jag skulle haft sepp med mig suckade ditte | random: sepp mig suckade skulle ditte med haft jag
+1.00 | 0.04
+ours: jag skulle vilja vara hos dig viskar inez | random: hos skulle vilja jag viskar inez vara dig
+1.00 | 0.07
+ours: jag sticker efter din mormors cykel sa myran | random: mormors myran sticker jag sa din cykel efter
+1.00 | 0.00
+ours: jag stoppar lakritsen i munnen och cyklar hem | random: hem jag stoppar lakritsen i cyklar munnen och
+1.00 | 0.25
+ours: jag tittade mot det gamla huset och tornet | random: det jag och tittade gamla mot tornet huset
+1.00 | 0.00
+ours: jag tog en bondkaka och doppade i saften | random: jag tog en bondkaka doppade saften och i
+1.00 | 0.21
+ours: jag tog ett par steg in mot land | random: in tog land jag steg mot ett par
+1.00 | 0.04
+ours: jag tror att hon har flyttat svarar inez | random: svarar att inez flyttat har hon jag tror
+1.00 | 0.04
+ours: tror jag inte att amanda gillar sin styvpappa | random: gillar tror amanda styvpappa sin jag att inte
+0.54 | 0.00
+ours: jag var privatdetektiv och jag hade ett uppdrag | random: jag uppdrag var jag privatdetektiv ett hade och
+1.00 | 0.00
+ours: jag vet inte hur jag ska komma dit | random: komma hur ska inte jag dit jag vet
+1.00 | 0.04
+ours: jag vet inte om hon har det kvar | random: jag hon kvar vet inte har om det
+1.00 | 0.04
+ours: jag vet inte vad han heter i efternamn | random: i jag heter efternamn han inte vad vet
+1.00 | 0.04
+ours: jag vet inte var han bor sa nick | random: jag nick var bor han sa inte vet
+1.00 | 0.00
+ours: jag vill nog hellre vara barn tror jag | random: hellre vill tror jag vara barn jag nog
+1.00 | 0.07
+ours: jag vill nog helst vara ensam med malte | random: helst vill med ensam malte vara jag nog
+1.00 | 0.00
+ours: jag vill verkligen inte vara ihop med dig | random: dig jag ihop inte med vill verkligen vara
+1.00 | 0.04
+ours: jo sa mormor nog kom dom hem alltid | random: kom alltid mormor jo sa dom hem nog
+1.00 | 0.07
+ours: joakim styrde mot solglittret i mitten av viken | random: i mot solglittret mitten styrde viken joakim av
+1.00 | 0.04
+ours: joakim verkar ju ha gjort allt han kunde | random: joakim kunde han ju gjort ha verkar allt
+1.00 | 0.00
+ours: joel och flera av de andra killarna skrattar | random: andra av flera killarna de skrattar och joel
+1.00 | 0.00
+ours: jordens temperatur kommer att stiga med sex grader | random: temperatur grader stiga jordens att sex med kommer
+1.00 | 0.00
+ours: just den dagen av alla dagar regnar det | random: just dagen det alla av dagar regnar den
+1.00 | 0.04
+ours: just nu finns det fem kandidater till jobbet | random: finns nu till kandidater fem det just jobbet
+1.00 | 0.00
+ours: just som felix sagt det ringde hans mobil | random: sagt hans det som ringde just felix mobil
+1.00 | 0.00
+ours: kajsa och hennes kompisar vrider sig av skratt | random: kompisar hennes sig kajsa vrider skratt och av
+1.00 | 0.00
+ours: kan du inte knacka innan du brakar in | random: knacka inte du innan kan in du brakar
+1.00 | 0.04
+ours: kan jag ringa upp dig om en stund | random: upp ringa om dig jag kan stund en
+1.00 | 0.00
+ours: kanske har han till och med lite magknip | random: till lite han har magknip kanske och med
+1.00 | 0.04
+ours: kanske jag skulle skaffa en barnflicka till er | random: till en barnflicka skaffa er kanske jag skulle
+1.00 | 0.14
+ours: kanske kan vi bli kompisar du och jag | random: kompisar jag vi kan och du bli kanske
+1.00 | 0.00
+ours: kanske vet hon inte ens vad han heter | random: hon ens kanske vet heter vad inte han
+1.00 | 0.04
+ours: klarade du inte av en natt med farfar | random: med du av natt inte farfar klarade en
+1.00 | 0.00
+ours: klasse kom dit en liten stund efter mej | random: kom dit mej klasse efter en stund liten
+1.00 | 0.07
+ours: klasse kom med blodapelsinflaskan och rullen med mariekex | random: med blodapelsinflaskan med klasse rullen mariekex och kom
+1.00 | 0.04
+ours: klockan blev halv sju och ingen cilla kom | random: klockan sju blev kom halv ingen och cilla
+1.00 | 0.00
+ours: kom hit om du har lust sa hon | random: lust om hon har kom sa hit du
+1.00 | 0.00
+ours: hon kommer att spela i de olympiska spelen | random: hon spelen olympiska de kommer att spela i
+0.54 | 0.11
+ours: kommer ni och badar i hamnen i morgon | random: och i kommer i morgon hamnen ni badar
+1.00 | 0.04
+ours: laget tog sej till final och vann klassen | random: laget sej och vann till tog final klassen
+1.00 | 0.04
+ours: landet iran har protesterat mot att bilden visats | random: visats protesterat har att landet mot iran bilden
+1.00 | 0.00
+ours: landslaget vann bland annat tre guld i os | random: os vann bland annat landslaget tre i guld
+1.00 | 0.11
+ours: lille enzo fick en tuff start i livet | random: start livet i tuff en enzo fick lille
+1.00 | 0.04
+ours: lisa fick sova hos morfar resten av natten | random: resten fick hos lisa natten av sova morfar
+1.00 | 0.00
+ours: lisa gick ut och plockade massor av blommor | random: och ut gick plockade massor lisa blommor av
+1.00 | 0.04
+ours: lisa och maja kommer med nadina bakom mig | random: lisa med mig nadina bakom och maja kommer
+1.00 | 0.14
+ours: maja och lisa och jag vill rida ihop | random: och maja vill lisa och rida jag ihop
+0.43 | 0.07
+ours: magnus arvidsson klarade sig till final i spjut | random: sig i arvidsson klarade final magnus till spjut
+1.00 | 0.04
+ours: maja och lisa hoppar upp och kramar mig | random: hoppar maja och lisa upp och kramar mig
+1.00 | 0.32
+ours: majsan nickar och kvinnan kliar honom i pannan | random: honom kliar nickar i och kvinnan majsan pannan
+1.00 | 0.04
+ours: majsan sitter tyst och funderar en stund till | random: funderar majsan tyst till sitter stund och en
+1.00 | 0.00
+ours: malte springer med mulen intryckt i luddes svans | random: mulen med svans springer i luddes malte intryckt
+1.00 | 0.04
+ours: mamma pappa och rina andas med djupa andetag | random: mamma andetag rina pappa och djupa andas med
+1.00 | 0.07
+ours: man kan inte alltid bota skador och sjukdomar | random: skador bota och inte sjukdomar man alltid kan
+1.00 | 0.00
+ours: man kan inte kontrollera allt utan tar stickprover | random: tar stickprover kan utan kontrollera man allt inte
+1.00 | 0.04
+ours: man kanske skulle ta cykeln och sticka efter | random: sticka ta kanske och man cykeln efter skulle
+1.00 | 0.00
+ours: mannen har hiv och kan ha smittat flickorna | random: ha smittat kan har flickorna hiv och mannen
+1.00 | 0.07
+ours: mannen ska skickas tillbaka till iraks huvudstad bagdad | random: iraks bagdad tillbaka skickas huvudstad mannen till ska
+1.00 | 0.00
+ours: mannen var psykiskt sjuk och kunde vara farlig | random: vara farlig var mannen kunde sjuk och psykiskt
+1.00 | 0.07
+ours: manuel ville kanske inte ens prata med honom | random: kanske prata med manuel honom ens ville inte
+1.00 | 0.04
+ours: maria drar fram en trehjulig vagn ur ladan | random: vagn en maria trehjulig fram drar ladan ur
+1.00 | 0.00
+ours: massor av unga demonstrerade och slogs med polisen | random: med polisen demonstrerade av massor och unga slogs
+1.00 | 0.04
+ours: med ena handen tar hon tag i gatlyktan | random: i ena tag hon tar handen gatlyktan med
+1.00 | 0.00
+ours: med ens visste felix vad han ville bli | random: felix visste han ens bli med vad ville
+1.00 | 0.00
+ours: men alva vill inte att filippa ska komma | random: men filippa vill att alva inte komma ska
+1.00 | 0.00
+ours: men de har rasistiska inslag i sitt partiprogram | random: men partiprogram de inslag rasistiska i sitt har
+1.00 | 0.07
+ours: men de senaste dagarna har vattnet sjunkit undan | random: har sjunkit undan de men senaste dagarna vattnet
+1.00 | 0.07
+ours: men de svenska anfallarna hade ingen bra dag | random: anfallarna dag ingen de bra svenska men hade
+1.00 | 0.00
+ours: men den NUMBER november slog sovjets ledare tillbaka | random: sovjets men NUMBER tillbaka slog den ledare november
+1.00 | 0.00
+ours: men det finns en annan mening med bilden | random: bilden det mening en finns med men annan
+1.00 | 0.00
+ours: men det ger vi fan i sa han | random: vi det ger han i fan sa men
+1.00 | 0.07
+ours: men det lilla extra fattas fortfarande sade han | random: men han extra sade det fattas fortfarande lilla
+1.00 | 0.04
+ours: men det ska vara utan hundar avslutar hon | random: avslutar hon det men utan hundar ska vara
+1.00 | 0.11
+ours: men det var inte riktigt det som vi | random: riktigt var inte det som men vi det
+1.00 | 0.07
+ours: men dom ska vi ta till en sockerkaka | random: ska vi sockerkaka till en ta men dom
+1.00 | 0.11
+ours: men efter en stund kan jag slappna av | random: jag en slappna stund kan men efter av
+1.00 | 0.07
+ours: men efter hand rinner hela historien ur mig | random: rinner efter hela hand mig men historien ur
+1.00 | 0.04
+ours: men en liten uppgift har hon till mig | random: en mig har till hon liten uppgift men
+1.00 | 0.04
+ours: men ett funktionshinder har man oftast hela livet | random: har man hela livet funktionshinder men oftast ett
+1.00 | 0.07
+ours: men eu har inte velat samtala om medlemskap | random: om samtala men har medlemskap velat eu inte
+1.00 | 0.00
+ours: men felix verkade trivas som fisken i vattnet | random: men vattnet som verkade i fisken felix trivas
+1.00 | 0.00
+ours: men han hade inte tagit livet av sig | random: inte men hade sig tagit av livet han
+1.00 | 0.00
+ours: men han skadade inte nacken eller ryggen allvarligt | random: men skadade allvarligt han inte eller ryggen nacken
+1.00 | 0.04
+ours: men han tar i alla fall emot den | random: men fall tar i emot den han alla
+1.00 | 0.07
+ours: men han vill inte bli sittande ensam heller | random: sittande ensam inte men bli heller han vill
+1.00 | 0.07
+ours: men hon hann inte stanna och dricka kaffe | random: stanna inte hann och dricka kaffe hon men
+1.00 | 0.11
+ours: men hon ser ju konstig ut sa pojken | random: konstig ut pojken hon ju men ser sa
+1.00 | 0.04
+ours: men i andra halvlek satte ryssarna upp farten | random: ryssarna i farten upp andra men halvlek satte
+1.00 | 0.04
+ours: men i det sista setet var federer starkast | random: i setet starkast sista var men det federer
+1.00 | 0.00
+ours: men innan jag hinner svara flinar han retsamt | random: han retsamt flinar svara hinner men innan jag
+1.00 | 0.14
+ours: men inte har han tagit kontakt med mig | random: inte har han mig med kontakt tagit men
+1.00 | 0.11
+ours: men jag red ju varenda dag i somras | random: somras varenda jag ju men dag i red
+1.00 | 0.04
+ours: men jag vet inte om jag klarar det | random: vet men om klarar inte det jag jag
+1.00 | 0.00
+ours: men jag visste inte om jag hade lust | random: hade lust visste jag om inte jag men
+1.00 | 0.04
+ours: men just nu ska jag bara blunda lite | random: jag blunda lite nu just bara men ska
+1.00 | 0.04
+ours: men malte slukar inte godiset som han brukar | random: malte som brukar slukar godiset men han inte
+1.00 | 0.00
+ours: men mellberg vill fortfarande vara med i landslaget | random: vara i med mellberg landslaget vill fortfarande men
+1.00 | 0.04
+ours: men nu handlade det inte om att vinna | random: men att nu inte det handlade vinna om
+1.00 | 0.00
+ours: men nu har de flesta stannat i vikt | random: i men stannat har flesta nu vikt de
+1.00 | 0.00
+ours: men nu pratar vi inte mer om henne | random: men nu inte henne vi mer om pratar
+1.00 | 0.07
+ours: men nu ska vi ha en fin middag | random: en ha vi ska men nu fin middag
+1.00 | 0.07
+ours: men nu var de bara fem man igen | random: nu man fem de bara var men igen
+1.00 | 0.04
+ours: men sedan har hon inte tid med inez | random: tid inez har med hon inte sedan men
+1.00 | 0.04
+ours: men sverige har kvar sina pengar sina kronor | random: har men pengar kvar sverige sina kronor sina
+1.00 | 0.04
+ours: men vem hade du som hemlig kompis melker | random: melker men vem som kompis hade hemlig du
+1.00 | 0.04
+ours: men vi trodde ju att du hade skvallrat | random: hade ju du vi att men trodde skvallrat
+1.00 | 0.00
+ours: men visst finns det chans till svenska medaljer | random: visst men chans svenska till finns medaljer det
+1.00 | 0.00
+ours: men zlatan vill inte spela i sveriges landslag | random: sveriges i vill zlatan spela landslag men inte
+1.00 | 0.00
+ours: mer kunskap cheferna och ledarna fick mer utbildning | random: fick mer utbildning mer ledarna och kunskap cheferna
+1.00 | 0.14
+ours: mikael johansson fick NUMBER kronor utan att arbeta | random: johansson arbeta att NUMBER kronor mikael fick utan
+1.00 | 0.04
+ours: milan vann finalen i champions league mot liverpool | random: i liverpool milan mot league finalen vann champions
+1.00 | 0.00
+ours: milo sticker in handen under den lilla mattan | random: under den milo lilla in sticker handen mattan
+1.00 | 0.04
+ours: milo vet inte om han tycker om dem | random: vet om han om milo inte tycker dem
+1.00 | 0.04
+ours: milosevic sade hela tiden att han var oskyldig | random: hela milosevic sade han oskyldig att var tiden
+1.00 | 0.04
+ours: mirran drog ut den gamla cykeln ur vedboden | random: drog vedboden cykeln ur gamla ut den mirran
+1.00 | 0.07
+ours: mirran och myran lommade tillbaka till sin bro | random: sin myran mirran och bro tillbaka till lommade
+1.00 | 0.07
+ours: mirrans snyftningar visade inga tecken till att avta | random: till snyftningar visade inga tecken mirrans att avta
+1.00 | 0.25
+ours: mitt hus brann ner efter mitt sista experiment | random: mitt mitt hus sista brann experiment efter ner
+1.00 | 0.04
+ours: mobbning i skolan kan till exempel vara diskriminering | random: exempel i diskriminering mobbning skolan kan vara till
+1.00 | 0.04
+ours: mormor hejdar sig lite och ser sig omkring | random: hejdar och ser omkring lite mormor sig sig
+1.00 | 0.04
+ours: morsan brukade inte vara den som gick upp | random: upp morsan som den inte brukade gick vara
+1.00 | 0.00
+ours: nato eu och fn ingrep och stoppade kriget | random: kriget och eu nato ingrep och fn stoppade
+1.00 | 0.07
+ours: nej han ville inte prata om det mer | random: om det han inte prata mer ville nej
+1.00 | 0.07
+ours: nej helst inte i telefon imorgon klockan tre | random: klockan imorgon helst tre telefon nej i inte
+1.00 | 0.00
+ours: nej jag menar jo ditte kanske kommer dit | random: jag jo nej menar kanske kommer ditte dit
+1.00 | 0.04
+ours: nej killar brukar inte prata om sina tjejer | random: tjejer sina brukar killar om prata inte nej
+1.00 | 0.00
+ours: nej polisen tror att de ombord har drunknat | random: tror de drunknat nej ombord har polisen att
+1.00 | 0.04
+ours: nja det hinner vi nog inte sa hon | random: nog sa det nja vi hon hinner inte
+1.00 | 0.00
+ours: nu arbetar peter lindberg med organisationen stulen barndom | random: arbetar barndom med nu organisationen lindberg peter stulen
+1.00 | 0.00
+ours: nu avbryts allt samarbete mellan regeringen och carnegie | random: och carnegie samarbete regeringen mellan nu avbryts allt
+1.00 | 0.14
+ours: nu blev det barcelona som tog hem segern | random: barcelona som blev nu hem tog segern det
+1.00 | 0.04
+ours: nu blir du nog snart bra sa jag | random: du blir nog sa snart nu jag bra
+1.00 | 0.00
+ours: nu blir hennes nya jobb att spela fotboll | random: blir att fotboll spela nya nu hennes jobb
+1.00 | 0.00
+ours: nu hade han en djup rynka i pannan | random: en nu i pannan djup rynka han hade
+1.00 | 0.07
+ours: nu har ett nytt attentat tagit hennes liv | random: har attentat nytt tagit nu liv ett hennes
+1.00 | 0.00
+ours: nu har riksdagen sagt ja till en handlingsplan | random: riksdagen handlingsplan nu har sagt ja en till
+1.00 | 0.07
+ours: nu har valgruppen blivit klar med sitt arbete | random: med klar sitt arbete har blivit nu valgruppen
+1.00 | 0.04
+ours: nu kom maria och pia in i verkstaden | random: in maria och nu kom pia verkstaden i
+1.00 | 0.07
+ours: nu kommer du att klara det sa jag | random: kommer att det sa du nu klara jag
+1.00 | 0.04
+ours: nu satt bitte och viskade med lisen igen | random: satt igen bitte med nu och lisen viskade
+1.00 | 0.00
+ours: nu ska fuskarna straffas och betala tillbaka pengarna | random: betala straffas och pengarna ska tillbaka nu fuskarna
+1.00 | 0.04
+ours: nu ska jag visa dem den nya alva | random: dem visa nya alva ska nu den jag
+1.00 | 0.04
+ours: nu ska vi hoppa viskar jag till sally | random: jag viskar till ska hoppa nu vi sally
+1.00 | 0.00
+ours: nu skickar israel in fler soldater i libanon | random: libanon nu in soldater i skickar fler israel
+1.00 | 0.04
+ours: nu skriver amerikanska tidningar att soldaterna har ljugit | random: har nu soldaterna amerikanska att tidningar ljugit skriver
+1.00 | 0.00
+ours: nu stannade pappa bilen under en brant klippa | random: under pappa stannade nu brant bilen klippa en
+1.00 | 0.00
+ours: nu var det anton som drog i frida | random: var frida i som det nu drog anton
+1.00 | 0.00
+ours: nu var det hennes tur att vara duktig | random: duktig nu det hennes tur att vara var
+1.00 | 0.36
+ours: nu var det ljust och inte lika farligt | random: var farligt lika ljust inte och det nu
+1.00 | 0.00
+ours: nu vill jag ha era mobiltelefoner kommenderade mannen | random: kommenderade nu jag era ha mobiltelefoner vill mannen
+1.00 | 0.00
+ours: nu visar det sig att han var dopad | random: det dopad var nu han att visar sig
+1.00 | 0.00
+ours: och den har jag i fickan sa lisa | random: har fickan den i sa lisa jag och
+1.00 | 0.04
+ours: och det var han som delade upp lagen | random: var upp delade och lagen som det han
+1.00 | 0.00
+ours: och det vill du att jag ska tro | random: och tro ska det vill du jag att
+1.00 | 0.11
+ours: och dom gjorde mej varken glad eller smart | random: smart mej glad dom varken eller gjorde och
+1.00 | 0.00
+ours: och en av dem ska bli hennes egen | random: dem en bli och ska av hennes egen
+1.00 | 0.04
+ours: och en del som dom inte har gjort | random: som en inte dom och gjort har del
+1.00 | 0.00
+ours: och en kamrat till henne som heter jan | random: och heter en kamrat som henne till jan
+1.00 | 0.04
+ours: och en liten bit av love i alva | random: love bit av i alva en och liten
+1.00 | 0.07
+ours: och extra kul att blonde felix var med | random: extra med var kul felix och blonde att
+1.00 | 0.00
+ours: hur och var det med felix och tjejer | random: med felix tjejer var hur det och och
+0.54 | 0.04
+ours: och inte har dom hittat sin pappa heller | random: hittat och har heller inte dom sin pappa
+1.00 | 0.04
+ours: och inte vilken kille som helst utan jonathan | random: kille jonathan och som utan helst inte vilken
+1.00 | 0.04
+ours: och milo blir varm och lugn av lycka | random: milo lycka lugn och blir varm av och
+1.00 | 0.04
+ours: och nu har jag ont i magen dessutom | random: i och ont dessutom har jag magen nu
+1.00 | 0.04
+ours: och sedan blir det ett annat lands tur | random: annat sedan lands ett det blir och tur
+1.00 | 0.00
+ours: och snart kommer ellen hem med sina kompisar | random: kompisar snart kommer ellen sina med och hem
+1.00 | 0.11
+ours: och ungherrskap har hon med sig ser jag | random: och sig med ungherrskap hon jag ser har
+1.00 | 0.00
+ours: olika grupper i landet har slagits om makten | random: i har landet grupper om slagits makten olika
+1.00 | 0.00
+ours: olika grupper med vapen har stridit om makten | random: grupper makten med olika vapen stridit har om
+1.00 | 0.00
+ours: om anton och eskil och patron och allihop | random: allihop patron och om anton och eskil och
+1.00 | 0.39
+ours: om man inte vill ha sten slipper man | random: man slipper man vill om inte sten ha
+1.00 | 0.04
+ours: pappa byggde den i sin ungdom sa jag | random: pappa sa i sin jag den ungdom byggde
+1.00 | 0.04
+ours: pappa hade just dragit ut kofferten ur framruffen | random: just ur kofferten pappa hade ut dragit framruffen
+1.00 | 0.04
+ours: pappa och jag har hittat den inflikade joakim | random: hittat och inflikade jag har joakim pappa den
+1.00 | 0.04
+ours: pappa och jag ler mot varandra i smyg | random: mot varandra och i jag smyg ler pappa
+1.00 | 0.04
+ours: pappa struntade i vems kaffe han spillde ut | random: han struntade kaffe vems pappa i ut spillde
+1.00 | 0.00
+ours: percy kastade en sten i mitten av den | random: av percy den en i kastade mitten sten
+1.00 | 0.04
+ours: personer med funktionshinder ska kunna bo i familjehem | random: ska med personer i bo familjehem funktionshinder kunna
+1.00 | 0.00
+ours: poliserna hann ta bort bomberna innan de exploderade | random: hann de innan ta bomberna bort poliserna exploderade
+1.00 | 0.00
+ours: poliserna i hyderabad har hittat nitton andra bomber | random: hittat poliserna har nitton i bomber hyderabad andra
+1.00 | 0.00
+ours: potatis det blir mycket mindre gifter i naturen | random: mindre potatis blir mycket gifter det naturen i
+1.00 | 0.04
+ours: precis som andra droger smugglas rohypnol till sverige | random: sverige till smugglas rohypnol andra precis som droger
+1.00 | 0.07
+ours: precis som galne hugo gjort med sitt plan | random: precis sitt med gjort galne plan som hugo
+1.00 | 0.00
+ours: priset delas ut i stockholm den NUMBER december | random: ut den stockholm priset december i NUMBER delas
+1.00 | 0.00
+ours: psykologen pratar med dig om vad testen visar | random: dig psykologen testen visar om med pratar vad
+1.00 | 0.04
+ours: rakt ner emot den gamla stenbron kom han | random: ner han gamla stenbron kom rakt emot den
+1.00 | 0.14
+ours: regeringen tar inte hand om de verkliga problemen | random: tar verkliga inte de om regeringen hand problemen
+1.00 | 0.00
+ours: regeringen vill nu locka dem att arbeta igen | random: regeringen igen nu vill dem locka att arbeta
+1.00 | 0.04
+ours: regeringspartiet hamas och partiet fatah kan inte samarbeta | random: hamas och regeringspartiet inte fatah samarbeta partiet kan
+1.00 | 0.04
+ours: regleringsbrev ett brev som regeringen skickar till myndigheterna | random: som till myndigheterna regleringsbrev regeringen brev skickar ett
+1.00 | 0.04
+ours: resten av dagen i skolan sniglar sig fram | random: av resten dagen sig fram i skolan sniglar
+1.00 | 0.14
+ours: riksdagen diskuterar propositionerna i arbetsgrupper som kallas utskott | random: utskott arbetsgrupper riksdagen i kallas diskuterar propositionerna som
+1.00 | 0.04
+ours: romani prodi vann valet i italien mycket knappt | random: romani prodi i knappt vann mycket italien valet
+1.00 | 0.04
+ours: ropade hon till felix och grep hans hand | random: grep hon ropade till felix hans hand och
+1.00 | 0.07
+ours: runt stenbrottet fanns branta stup ner mot vattnet | random: vattnet ner stenbrottet stup fanns branta runt mot
+1.00 | 0.04
+ours: rut satt hopsjunken med huvudet vilande mot axeln | random: rut satt med hopsjunken mot vilande axeln huvudet
+1.00 | 0.04
+ours: sa brorsan och trummade med skeden mot assietten | random: sa med skeden trummade och brorsan mot assietten
+1.00 | 0.07
+ours: sa han och gjorde tummen upp mot piloterna | random: piloterna han upp sa tummen gjorde och mot
+1.00 | 0.00
+ours: sa han till felix och knuffade till hoonom | random: han till felix sa knuffade till och hoonom
+1.00 | 0.14
+ours: sa hon och satte hammocken i kraftig gungning | random: gungning sa satte i hon hammocken och kraftig
+1.00 | 0.00
+ours: sa nick och gick emellan erik och jake | random: och och nick sa erik gick jake emellan
+1.00 | 0.00
+ours: sa pappa och viftade bort erik med handen | random: sa och pappa erik viftade handen bort med
+1.00 | 0.00
+ours: sally kommer genast travande mot oss genom hagen | random: sally kommer hagen oss genast genom travande mot
+1.00 | 0.07
+ours: samarbetet mellan sundin och peter forsberg fungerade bra | random: och sundin fungerade peter forsberg mellan samarbetet bra
+1.00 | 0.04
+ours: samma gamla stig fram och tillbaka varenda dag | random: dag tillbaka och fram samma gamla varenda stig
+1.00 | 0.04
+ours: samtidigt vann ryssland mot tjeckien med NUMBER NUMBER | random: samtidigt NUMBER vann tjeckien mot ryssland med NUMBER
+1.00 | 0.04
+ours: sedan dess har han varit i landet kenya | random: dess kenya sedan landet varit har han i
+1.00 | 0.04
+ours: sedan drog han i alla spakar som fanns | random: sedan i drog alla fanns han spakar som
+1.00 | 0.04
+ours: sedan drog han till bollen utan att sikta | random: att sedan han utan drog bollen sikta till
+1.00 | 0.00
+ours: sedan gick han ut i den varma solen | random: sedan i gick han ut den varma solen
+1.00 | 0.21
+ours: sedan gjorde de tummen upp mot oss alla | random: sedan gjorde upp tummen alla mot de oss
+1.00 | 0.04
+ours: sedan hade de inte pratat mer om det | random: inte om det pratat de sedan mer hade
+1.00 | 0.04
+ours: sedan har branden spridit sig vidare till nationalparken | random: vidare sig nationalparken branden har spridit sedan till
+1.00 | 0.00
+ours: sedan stannade percy och drog undan en gren | random: stannade drog en undan sedan gren och percy
+1.00 | 0.00
+ours: sedan talar datorn om vilken tid bussen kommer | random: bussen talar tid om datorn vilken kommer sedan
+1.00 | 0.00
+ours: sen kan man droppa det i hoppsans mun | random: det man mun kan i droppa hoppsans sen
+1.00 | 0.00
+ours: senare ringde eleven till rektorn och hotade henne | random: eleven hotade ringde henne och senare rektorn till
+1.00 | 0.00
+ours: siri och lova kan bara nicka och hicka | random: hicka och nicka lova och siri kan bara
+1.00 | 0.04
+ours: sjamil basajev hatade ryssland och den ryska regeringen | random: regeringen sjamil basajev ryssland ryska hatade och den
+1.00 | 0.07
+ours: ska det bli zlatan ibrahimovic eller markus rosenberg | random: ibrahimovic eller det rosenberg bli markus zlatan ska
+1.00 | 0.04
+ours: skulle tro att jag inte ser klok ut | random: jag ser ut tro inte klok skulle att
+1.00 | 0.00
+ours: snart fanns det blommor i morfars alla vaser | random: fanns i det vaser alla snart blommor morfars
+1.00 | 0.00
+ours: snart hade de hunnit in till stadens centrum | random: hade de centrum stadens hunnit in snart till
+1.00 | 0.07
+ours: snart kommer det att finnas i hela sverige | random: snart finnas kommer hela sverige att i det
+1.00 | 0.04
+ours: snart var de ivrigt pratande nere vid bryggan | random: nere bryggan de var snart vid ivrigt pratande
+1.00 | 0.04
+ours: sofia tar en pinne och skriver i sanden | random: tar sofia pinne skriver och sanden en i
+1.00 | 0.00
+ours: som detektiv borde jag kanske ha en pistol | random: en ha borde pistol jag detektiv som kanske
+1.00 | 0.00
+ours: som en blixt skar tanken genom myrans huvud | random: tanken skar myrans blixt en huvud som genom
+1.00 | 0.00
+ours: som om dom inte tyckte om varann alls | random: om alls om tyckte dom inte som varann
+1.00 | 0.04
+ours: som om hon trodde att jag skulle falla | random: som skulle hon trodde om falla jag att
+1.00 | 0.04
+ours: som tur var tog jalle glatt emot honom | random: tur honom var emot tog som jalle glatt
+1.00 | 0.04
+ours: stackars majsan ser mer och mer generad ut | random: stackars mer mer majsan och ut ser generad
+1.00 | 0.00
+ours: stadens nya centrum ska ligga vid berget loussavara | random: ligga nya loussavara ska centrum vid berget stadens
+1.00 | 0.04
+ours: staffan harklar sig och ser lite generad ut | random: generad ut lite ser staffan sig och harklar
+1.00 | 0.07
+ours: start startar tio dagar efter skolfesten skriver jag | random: skolfesten dagar tio jag startar skriver start efter
+1.00 | 0.00
+ours: statens skulder har minskat med fyrtio miljarder kronor | random: fyrtio med miljarder kronor har statens skulder minskat
+1.00 | 0.07
+ours: stridsvagnar rullade in i huvudstaden bangkok i tisdags | random: stridsvagnar rullade i i in tisdags huvudstaden bangkok
+1.00 | 0.14
+ours: sven nylander tog kokain jag har tagit kokain | random: tog har sven jag kokain tagit kokain nylander
+1.00 | 0.04
+ours: sverige gjorde en bra match och pressade ryssarna | random: ryssarna bra en sverige och match pressade gjorde
+1.00 | 0.00
+ours: sverige har bra chanser att komma till slutspel | random: komma bra har till sverige slutspel att chanser
+1.00 | 0.00
+ours: sverige kom igen bra i den andra halvleken | random: igen halvleken bra sverige kom i den andra
+1.00 | 0.21
+ours: sverige kommer bland annat att skicka en helikopter | random: kommer skicka bland helikopter att sverige annat en
+1.00 | 0.00
+ours: sverige leder nu sin grupp i kvalet klart | random: i grupp kvalet sverige nu klart sin leder
+1.00 | 0.00
+ours: sverige lyckades inte vinna matchen mot trinidad tobago | random: trinidad lyckades vinna mot inte sverige tobago matchen
+1.00 | 0.00
+ours: sverige tog bara en enda medalj i vm | random: enda en medalj sverige tog i vm bara
+1.00 | 0.07
+ours: sverige vann matchen med NUMBER NUMBER mot ryssland | random: matchen sverige NUMBER ryssland mot med NUMBER vann
+0.25 | 0.04
+ours: sveriges damer har vunnit alla matcher utom en | random: har damer matcher en vunnit utom sveriges alla
+1.00 | 0.00
+ours: sveriges grundlag talar om hur landet ska styras | random: ska landet styras talar om grundlag hur sveriges
+1.00 | 0.04
+ours: sveriges seger mot usa var en riktig bragd | random: seger mot riktig bragd var en sveriges usa
+1.00 | 0.11
+ours: svetten kom krypande och han saktade ned farten | random: svetten han kom farten krypande och ned saktade
+1.00 | 0.04
+ours: ta det lugnt jag fixar det ropade jag | random: jag det fixar jag ropade ta lugnt det
+1.00 | 0.00
+ours: ta det lugnt nu ropar staffan bakom oss | random: staffan nu ta lugnt oss det ropar bakom
+1.00 | 0.00
+ours: tack sa felix och tog emot ett glas | random: tog och sa ett felix glas emot tack
+1.00 | 0.00
+ours: tack sa frederic och tog mig i hand | random: frederic i tog sa tack hand och mig
+1.00 | 0.00
+ours: tack sa manuel och vadade ut i havet | random: i manuel sa tack ut havet vadade och
+1.00 | 0.00
+ours: telefonnummer finns under rubriken viktiga telefonnummer och adresser | random: telefonnummer telefonnummer under och adresser rubriken viktiga finns
+1.00 | 0.07
+ours: terroristerna ville hindra usa att kriga i irak | random: ville att usa kriga irak i terroristerna hindra
+1.00 | 0.00
+ours: thobias fredriksson och peter larsson var snabbaste herrlag | random: snabbaste var thobias peter larsson fredriksson herrlag och
+1.00 | 0.04
+ours: tidigare har hon vunnit em vm och os | random: vunnit har och hon vm em os tidigare
+1.00 | 0.00
+ours: tidigare har man sparat den i NUMBER dagar | random: man NUMBER tidigare dagar sparat i har den
+1.00 | 0.00
+ours: till slut flyttade de in i ett radhus | random: flyttade radhus in de till i slut ett
+1.00 | 0.00
+ours: till slut somnar hon om av ren utmattning | random: somnar till utmattning hon ren om slut av
+1.00 | 0.00
+ours: till slut spratt det till i sven fix | random: slut spratt sven fix det till till i
+1.00 | 0.14
+ours: tog tag om varandras axlar och dansade runt | random: runt tag axlar dansade varandras och tog om
+1.00 | 0.00
+ours: trafiken mellan sverige och danmark fungerar som vanligt | random: vanligt trafiken som sverige mellan och danmark fungerar
+1.00 | 0.11
+ours: tre kronor vann kvartsfinalen mot usa i onsdags | random: kronor kvartsfinalen tre usa mot onsdags vann i
+1.00 | 0.00
+ours: troligen har de kommit in i fel lokal | random: de lokal in troligen fel har kommit i
+1.00 | 0.04
+ours: troligen var ingen av dem inblandade i olyckan | random: olyckan i troligen dem av ingen var inblandade
+1.00 | 0.00
+ours: tror du att det var ett lik kanske | random: var lik tror att det ett kanske du
+1.00 | 0.04
+ours: tror du att han orkar runt hela banan | random: att orkar hela du tror banan han runt
+1.00 | 0.00
+ours: dom tror att du kan inte se oss | random: tror att se du oss dom inte kan
+0.04 | 0.00
+ours: trots allt gjorde det mig ont om honom | random: gjorde honom ont om det trots mig allt
+1.00 | 0.04
+ours: trots att jag var helt slut fortsatte jag | random: jag trots fortsatte jag helt att var slut
+1.00 | 0.04
+ours: trots det har det varit oroligt i irak | random: det varit irak trots har i det oroligt
+1.00 | 0.04
+ours: trots det lever han ett helt normalt liv | random: lever ett helt trots liv det normalt han
+1.00 | 0.04
+ours: tsunamin i sydasien var olik alla andra kriser | random: i andra alla tsunamin var kriser olik sydasien
+1.00 | 0.00
+ours: tunga gedigna skedar och slevar och andra bestick | random: skedar och tunga slevar andra och gedigna bestick
+1.00 | 0.04
+ours: turkiet vill bli medlem i europeiska unionen eu | random: medlem turkiet bli europeiska i eu vill unionen
+1.00 | 0.04
+ours: tusen nya jobb till ungdomar ska det bli | random: ungdomar tusen bli nya jobb ska det till
+1.00 | 0.07
+ours: tydligen har jag missat ett hummande trots allt | random: tydligen missat ett trots allt jag har hummande
+1.00 | 0.07
+ours: tyskland slog ut det andra sydamerikanska laget argentina | random: argentina slog det laget andra sydamerikanska tyskland ut
+1.00 | 0.04
+ours: undrade han och kisade mot solreflexerna i vattnet | random: han mot kisade i undrade och solreflexerna vattnet
+1.00 | 0.00
+ours: undvik fet mat som chips och pommes frittes | random: chips fet och undvik som mat pommes frittes
+1.00 | 0.04
+ours: upprorsgrupperna hade ingen chans mot de sovjetiska soldaterna | random: ingen chans soldaterna de upprorsgrupperna sovjetiska hade mot
+1.00 | 0.04
+ours: usa kunde inte stoppa det snabba svenska spelet | random: spelet kunde svenska snabba stoppa usa inte det
+1.00 | 0.00
+ours: usa sa att kriget tog slut i maj | random: kriget usa att sa slut tog i maj
+1.00 | 0.04
+ours: ut kommer amanda och mirjam i min klass | random: och mirjam amanda min i kommer klass ut
+1.00 | 0.04
+ours: utan att tveka lyfter han luddes tunga hovar | random: att hovar lyfter tveka tunga luddes utan han
+1.00 | 0.00
+ours: vad bryr jag mig om saft just nu | random: jag vad just bryr saft om mig nu
+1.00 | 0.00
+ours: vad i all sin dar har du gjort | random: har dar sin du vad all i gjort
+1.00 | 0.00
+ours: vad skulle han ta sig till med dem | random: sig ta med vad skulle dem till han
+1.00 | 0.04
+ours: vad som helst men han visste inte vad | random: som vad helst inte vad han men visste
+1.00 | 0.04
+ours: valet i palestina ska vara den NUMBER januari | random: den januari palestina valet NUMBER ska i vara
+1.00 | 0.00
+ours: valjakkala har bytt namn till nikita joakim fouganthine | random: nikita fouganthine har till valjakkala namn joakim bytt
+1.00 | 0.00
+ours: valresultatet har gjort ledarna i israel mycket oroliga | random: oroliga ledarna valresultatet har israel mycket i gjort
+1.00 | 0.07
+ours: var det mormor som redan hade kommit hem | random: redan det kommit mormor som var hade hem
+1.00 | 0.04
+ours: var noga med hygienen om du har katt | random: var katt om med noga du hygienen har
+1.00 | 0.00
+ours: var som innepiga eller husjungfru som frun sa | random: husjungfru som frun som innepiga var sa eller
+1.00 | 0.14
+ours: varje samtal tar en timme och NUMBER minuter | random: och timme samtal minuter varje tar en NUMBER
+1.00 | 0.04
+ours: vatten hade han i alla fall gott om | random: gott vatten han alla i hade fall om
+1.00 | 0.00
+ours: vem som vinner blir klart i morgon tisdag | random: blir i som klart morgon tisdag vinner vem
+1.00 | 0.04
+ours: vem vill bli som en kakelugn i lungorna | random: vem som i vill bli lungorna kakelugn en
+1.00 | 0.04
+ours: jag vet vad du tycker att hon liknar | random: du vet tycker hon att jag liknar vad
+0.21 | 0.00
+ours: vet du vad sa myran efter en stund | random: myran vad efter vet sa en stund du
+1.00 | 0.04
+ours: vi blir avbrutna av att det ringer in | random: avbrutna in blir ringer det att av vi
+1.00 | 0.00
+ours: vi cyklar hem och sover i flera timmar | random: timmar sover i cyklar flera vi hem och
+1.00 | 0.11
+ours: vi cyklar i rasande fart hem till lisa | random: lisa rasande i vi cyklar fart till hem
+1.00 | 0.04
+ours: vi delar den med dom andra i huset | random: vi i andra delar den dom huset med
+1.00 | 0.04
+ours: vi fick inga egna barn august och jag | random: barn egna vi och inga jag august fick
+1.00 | 0.00
+ours: vi gick upp till huset med tunga steg | random: steg med vi huset till upp tunga gick
+1.00 | 0.00
+ours: vi hade bytt om till badbrallor i huset | random: till om hade vi badbrallor huset i bytt
+1.00 | 0.00
+ours: vi har bara lekt och lekt sa jag | random: jag har lekt vi sa bara och lekt
+1.00 | 0.04
+ours: vi har pratat med amerikaner om olaglig kopiering | random: olaglig vi om pratat har med amerikaner kopiering
+1.00 | 0.04
+ours: vi har samma tanke i huvudet just nu | random: nu vi i just tanke har huvudet samma
+1.00 | 0.00
+ours: vi har sjuka gravida gamla och barn ombord | random: barn har gamla gravida ombord och sjuka vi
+1.00 | 0.00
+ours: vi lovar sa felix med fingrarna i kors | random: fingrarna vi felix sa lovar med i kors
+1.00 | 0.04
+ours: vi ser oss omkring i det piskande regnet | random: omkring piskande vi oss i regnet ser det
+1.00 | 0.00
+ours: vi ska diskutera om vi kan skicka soldater | random: ska skicka kan soldater vi vi diskutera om
+1.00 | 0.04
+ours: vi ska ta det i tur och ordning | random: ta i vi och ska det ordning tur
+1.00 | 0.00
+ours: vi skrittar ner mot skogen sida vid sida | random: sida skrittar vi mot ner sida skogen vid
+1.00 | 0.00
+ours: vi springer genom skogen med kartor och ficklampor | random: ficklampor vi genom kartor med springer och skogen
+1.00 | 0.00
+ours: vi startar i morgon med triangel nummer ett | random: nummer morgon startar ett triangel i vi med
+1.00 | 0.00
+ours: vi tittade tills vi fick ont i nacken | random: fick i tittade tills nacken vi vi ont
+1.00 | 0.11
+ours: vi vill att patienter ska vara som kunder | random: kunder vara som patienter vill att ska vi
+1.00 | 0.07
+ours: vid full tid var det oavgjort NUMBER NUMBER | random: NUMBER NUMBER full var vid oavgjort det tid
+1.00 | 0.04
+ours: vilken tur att han hade gjort flera dubbelmackor | random: hade vilken tur gjort dubbelmackor han att flera
+1.00 | 0.04
+ours: jag vill att du ska vara sjuk eller | random: eller du att vara vill jag ska sjuk
+0.21 | 0.07
+ours: jag vill att du ska visa dej runt | random: runt att jag dej vill visa du ska
+0.21 | 0.04
+ours: vill du vara med och dela tusen kronor | random: vill du och vara dela tusen med kronor
+1.00 | 0.07
+ours: vuxna ska kunna ta hand om sina barn | random: hand om kunna sina ta barn ska vuxna
+1.00 | 0.04
+ours: ytterligare tjugo tusen amerikanska soldater skickas till irak | random: tusen ytterligare soldater skickas till tjugo amerikanska irak
+1.00 | 0.11
+ours: zlatan utvisad zlatan ibrahimovic har blivit utvisad igen | random: igen zlatan zlatan blivit har utvisad ibrahimovic utvisad
+1.00 | 0.00
